@@ -1,0 +1,26 @@
+body {
+  font-weight: 300;
+  font-family: 'Nunito', sans-serif;
+}
+.text-center {
+  text-align: center;
+  padding-top: 25%;
+}
+.menu-list {
+  transform: translateY(-50%);
+  padding-left: 0;
+  list-style: none;
+}
+.menu-list li {
+  color: #E7E7E7;
+  font-size: 20px;
+  margin-bottom: 10px;
+  letter-spacing: -4px;
+  transition: .4s letter-spacing, .4s color;
+}
+.menu-list li:hover {
+  color: #000;
+  cursor: pointer;
+  letter-spacing: 0;
+  transition: .4s letter-spacing, .4s color;
+}
