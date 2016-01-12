@@ -12,10 +12,11 @@ body {
   list-style: none;
 }
 .menu-list li {
+  text-transform: uppercase;
   color: #E7E7E7;
   font-size: 20px;
   margin-bottom: 10px;
-  letter-spacing: -4px;
+  letter-spacing: -5px;
   transition: .4s letter-spacing, .4s color;
 }
 .menu-list li:hover {
