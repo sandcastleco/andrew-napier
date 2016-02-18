@@ -20,6 +20,7 @@ h1 {
 h2 {
   font-family: 'Rock Salt', cursive;
   font-size: 18px;
+  opacity: .5;
 }
 .caption {
   position: relative;
@@ -33,4 +34,13 @@ h2 {
   background-color: #232323;
   width: 33.33333%;
   height: 33vw;
+}
+.square-link:hover {
+  cursor: pointer;
+}
+#curfew {
+  opacity: 0;
+}
+#curfew-caption {
+  opacity: 0;
 }
