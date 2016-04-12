@@ -1,5 +1,7 @@
-# Site settings
-title: Site Title
+# Site data
+title: Andrew Napier
+collections:
+- films
 
 # Build settings
 markdown: kramdown
