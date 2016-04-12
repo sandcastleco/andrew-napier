@@ -1,5 +1,6 @@
 - title: Mad as Hell
   role: Director, Producer, Editor, Cinematographer
+  image: mad-as-hell.jpg
   category: documentary
   links:
     - name: Trailer
@@ -9,6 +10,7 @@
 
 - title: "Bounce: How the Ball Taught the World to Play"
   role: Producer, Editor
+  image: bounce.jpg
   category: documentary
   links:
     - name: Trailer
@@ -18,6 +20,7 @@
 
 - title: "The Past is a Grotesque Animal"
   role: Producer, Editor
+  image: the-past-is-a-grotesque-animal.jpg
   category: documentary
   links:
     - name: Trailer
@@ -26,6 +29,7 @@
       link: https://itunes.apple.com/us/movie/the-past-is-a-grotesque-animal/id881654852
 
 - title: "Mary and Bill"
+  image: mary-and-bill.jpg
   role: Director, Writer, Producer, Editor
   category: documentary
   links:
@@ -36,6 +40,7 @@
 
 - title: "Grandma's Not a Toaster!"
   role: Director, Editor
+  image: grandmas-not-a-toaster.jpg
   category: narrative
   links:
     - name: Trailer
@@ -45,6 +50,7 @@
 
 - title: "Curfew"
   role: Producer, Assistant Director
+  image: curfew.jpg
   category: narrative
   links:
     - name: Trailer
@@ -54,6 +60,7 @@
 
 - title: "Before I Disappear"
   role: Editor
+  image: before-i-disappear.jpg
   category: narrative
   links:
     - name: Trailer
@@ -63,6 +70,7 @@
 
 - title: "The Culture High"
   role: Executive Producer
+  image: the-culture-high.jpg
   category: documentary
   links:
     - name: Film

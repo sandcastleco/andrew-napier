@@ -22,7 +22,6 @@ body {
 img {
   width: 100%;
   height: auto;
-  border-radius: 3px;
   vertical-align: middle; }
 
 .sr-only {
@@ -123,10 +122,25 @@ hr {
   margin-right: 20px;
   display: inline-block; }
 
+.card {
+  display: block;
+  overflow: auto;
+  margin-bottom: 40px; }
+
+.card-image {
+  float: left;
+  max-width: 25%;
+  padding-right: 20px; }
+
+.card-main {
+  float: left;
+  max-width: 75%; }
+
 .card-title {
   font-style: italic;
   font-weight: bold;
   text-transform: uppercase;
+  margin-top: 0;
   margin-bottom: .25rem;
   letter-spacing: 0; }
 
