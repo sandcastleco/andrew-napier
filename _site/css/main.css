@@ -108,11 +108,17 @@ hr {
   width: 25%; }
 
 .btn {
-  background-color: #E7E7E7;
   border: 0;
   font-size: 1rem;
   padding: 10px;
-  border-radius: 5px; }
+  border: 1px solid rgba(119, 119, 119, 0.5);
+  background-color: transparent;
+  border-radius: 5px;
+  margin-bottom: 2rem; }
+
+.header-btn {
+  display: inline-block;
+  margin-bottom: 2rem; }
 
 .cover {
   height: 100vh; }
