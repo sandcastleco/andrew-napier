@@ -133,4 +133,5 @@ hr {
 
 .card-list li {
   display: inline-block;
-  margin-right: 25px; }
+  margin-right: 25px;
+  font-weight: 100; }
