@@ -2,7 +2,9 @@
   height: 100vh;
 }
 .nav {
-  margin-top: 20px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
   text-align: center;
 }
 .nav a {
@@ -19,4 +21,7 @@
 	margin-right: 10px;
   display: inline-block;
   margin-bottom: 0;
+}
+.nav hr {
+  margin-top: 9rem;
 }
