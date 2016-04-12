@@ -1,16 +1,22 @@
+.cover {
+  height: 100vh;
+}
 .nav {
-  margin-bottom: 40px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
 }
 .nav a {
 	text-decoration: none;
   border-bottom: 0;
 }
 .nav ul {
+  margin-top: 0;
 	list-style: none;
 	padding-left: 0;
 }
 .nav ul li {
   margin-left: 10px;
 	margin-right: 10px;
-	display: inline-block;
 }
