@@ -1,0 +1,15 @@
+.form-group {
+	margin-bottom: 30px;
+}
+.form-control {
+	width: 100%;
+	padding: 5px 0;
+	border: 0;
+	border-bottom: 1px solid #ccc;
+	transition: .3s border-color;
+}
+.form-control:focus {
+	outline: none;
+	border-color: #7E7E7E;
+	transition: .3s border-color;
+}

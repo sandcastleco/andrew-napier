@@ -1,0 +1,43 @@
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+  font-size: 1rem;
+}
+h1 {
+	margin-top: 0px;
+  font-size: 1.3rem;
+}
+h2 {
+  font-size: 1.1rem;
+}
+a {
+	color: #7E7E7E;
+}
+ol li,
+ul li {
+  margin-top: 0px;
+	margin-bottom: .75rem;
+}
+blockquote {
+  border-left: none;
+  font-size: .9rem;
+  line-height: 1.35;
+  padding-left: .75rem;
+  padding-right: .75rem;
+}
+hr {
+	border-top: 2px solid #E7E7E7;
+	border-bottom: none;
+	border-left: none;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
