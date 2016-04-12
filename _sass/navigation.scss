@@ -3,12 +3,14 @@
 }
 .nav a {
 	text-decoration: none;
+  border-bottom: 0;
 }
 .nav ul {
 	list-style: none;
 	padding-left: 0;
 }
 .nav ul li {
-	margin-right: 20px;
+  margin-left: 10px;
+	margin-right: 10px;
 	display: inline-block;
 }

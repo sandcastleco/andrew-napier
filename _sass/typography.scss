@@ -22,7 +22,9 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-	color: #7E7E7E;
+	color: $grey;
+  text-decoration: none;
+  border-bottom: 1px solid rgba($grey, 0.5);
 }
 ol li,
 ul li {
@@ -37,9 +39,10 @@ blockquote {
   padding-right: .75rem;
 }
 hr {
-	border-top: 2px solid #E7E7E7;
+	border-top: 3px solid #E7E7E7;
 	border-bottom: none;
 	border-left: none;
 	margin-top: 40px;
 	margin-bottom: 40px;
+  width: 25%
 }

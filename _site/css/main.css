@@ -81,7 +81,9 @@ h2 {
   font-size: 1.1rem; }
 
 a {
-  color: #7E7E7E; }
+  color: #777777;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(119, 119, 119, 0.5); }
 
 ol li,
 ul li {
@@ -96,11 +98,12 @@ blockquote {
   padding-right: .75rem; }
 
 hr {
-  border-top: 2px solid #E7E7E7;
+  border-top: 3px solid #E7E7E7;
   border-bottom: none;
   border-left: none;
   margin-top: 40px;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+  width: 25%; }
 
 .btn {
   background-color: #E7E7E7;
@@ -113,14 +116,16 @@ hr {
   margin-bottom: 40px; }
 
 .nav a {
-  text-decoration: none; }
+  text-decoration: none;
+  border-bottom: 0; }
 
 .nav ul {
   list-style: none;
   padding-left: 0; }
 
 .nav ul li {
-  margin-right: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
   display: inline-block; }
 
 .card {
@@ -135,6 +140,7 @@ hr {
 
 .card-main {
   float: left;
+  height: 100%;
   max-width: 75%; }
 
 .card-title {
@@ -154,3 +160,11 @@ hr {
   display: inline-block;
   margin-right: 25px;
   font-weight: 100; }
+
+footer {
+  text-align: center; }
+
+footer a {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-bottom: 0; }
