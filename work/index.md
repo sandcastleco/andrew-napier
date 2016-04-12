@@ -18,4 +18,4 @@ title: Work
 </div>
 {% endfor %}
 
-[More](http://www.imdb.com/name/nm3598310/)
+<a href="http://www.imdb.com/name/nm3598310/" target="_blank">More</a>
