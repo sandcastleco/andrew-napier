@@ -134,7 +134,8 @@ hr {
 
 .nav ul li {
   margin-left: 10px;
-  margin-right: 10px; }
+  margin-right: 10px;
+  display: inline-block; }
 
 .card {
   display: block;
