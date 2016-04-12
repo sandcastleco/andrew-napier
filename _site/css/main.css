@@ -118,9 +118,7 @@ hr {
   height: 100vh; }
 
 .nav {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+  margin-top: 20px;
   text-align: center; }
 
 .nav a {
@@ -135,7 +133,8 @@ hr {
 .nav ul li {
   margin-left: 10px;
   margin-right: 10px;
-  display: inline-block; }
+  display: inline-block;
+  margin-bottom: 0; }
 
 .card {
   display: block;
@@ -169,6 +168,12 @@ hr {
   display: inline-block;
   margin-right: 25px;
   font-weight: 100; }
+
+.fixed {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%); }
 
 footer {
   margin-top: 8rem;
