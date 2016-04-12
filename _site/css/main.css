@@ -12,7 +12,7 @@ html {
 }
 @media (min-width:768px) {
 	html {
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
 body {
@@ -30,6 +30,17 @@ img {
 	border-radius: 3px;
   vertical-align: middle;
 }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
 
 /*
  * The Grid
@@ -92,6 +103,18 @@ hr {
 }
 
 /*
+ * Buttons
+ */
+
+.btn {
+	background-color: #E7E7E7;
+	border: 0;
+	font-size: 1rem;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+/*
  * Navigation
  */
 
@@ -108,4 +131,24 @@ hr {
 .nav ul li {
 	margin-right: 20px;
 	display: inline-block;
+}
+
+/*
+ * Form
+ */
+
+.form-group {
+	margin-bottom: 30px;
+}
+.form-control {
+	width: 100%;
+	padding: 5px 0;
+	border: 0;
+	border-bottom: 1px solid #ccc;
+	transition: .3s border-color;
+}
+.form-control:focus {
+	outline: none;
+	border-color: blue;
+	transition: .3s border-color;
 }
