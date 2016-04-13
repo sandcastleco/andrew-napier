@@ -3,9 +3,11 @@ footer {
   padding: 1rem;
 }
 footer a {
+  display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
   border-bottom: 0;
   font-weight: bold;
   color: #e7e7e7;
+  transform: rotate(180deg);
 }
