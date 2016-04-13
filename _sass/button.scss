@@ -1,4 +1,5 @@
 .btn {
+	display: inline-block;
 	border: 0;
 	font-size: 1rem;
 	padding: 10px;
@@ -7,7 +8,16 @@
 	border-radius: 5px;
   margin-bottom: 2rem;
 }
+.btn-space {
+	margin-top: 1rem;
+}
 .header-btn {
-  display: inline-block;
+  display: block;
   margin-bottom: 2rem;
+	border-bottom: 0;
+	color: #e7e7e7;
+	font-size: 1.75rem;
+	position: absolute;
+	top: 20px;
+	left: 20px;
 }

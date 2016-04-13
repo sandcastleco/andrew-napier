@@ -114,6 +114,7 @@ hr {
   visibility: visible; }
 
 .btn {
+  display: inline-block;
   border: 0;
   font-size: 1rem;
   padding: 10px;
@@ -122,9 +123,18 @@ hr {
   border-radius: 5px;
   margin-bottom: 2rem; }
 
+.btn-space {
+  margin-top: 1rem; }
+
 .header-btn {
-  display: inline-block;
-  margin-bottom: 2rem; }
+  display: block;
+  margin-bottom: 2rem;
+  border-bottom: 0;
+  color: #e7e7e7;
+  font-size: 1.75rem;
+  position: absolute;
+  top: 20px;
+  left: 20px; }
 
 .cover {
   height: 100vh; }
@@ -137,7 +147,7 @@ hr {
 .nav {
   position: relative;
   top: 50%;
-  transform: translateY(-50%) rotate(180deg);
+  transform: translateY(-50%);
   text-align: center; }
 
 .nav a {
@@ -156,7 +166,7 @@ hr {
   margin-top: 9rem; }
 
 .card {
-  display: block;
+  position: relative;
   overflow: auto;
   margin-bottom: 3.25rem; }
 
@@ -167,7 +177,6 @@ hr {
 
 .card-main {
   float: left;
-  height: 100%;
   max-width: 75%; }
 
 .card-title {
@@ -180,12 +189,16 @@ hr {
   letter-spacing: 0; }
 
 .card-list {
+  position: absolute;
+  bottom: 0;
   list-style: none;
-  padding-left: 0; }
+  padding-left: 0;
+  margin-bottom: 0; }
 
 .card-list li {
   display: inline-block;
   margin-right: 25px;
+  margin-bottom: 0;
   font-weight: 100; }
 
 footer {
@@ -198,5 +211,4 @@ footer a {
   margin-right: 10px;
   border-bottom: 0;
   font-weight: bold;
-  color: #e7e7e7;
-  transform: rotate(180deg); }
+  color: #e7e7e7; }

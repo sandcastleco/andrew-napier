@@ -1,5 +1,5 @@
 .card {
-  display: block;
+  position: relative;
   overflow: auto;
   margin-bottom: 3.25rem;
 }
@@ -10,7 +10,6 @@
 }
 .card-main {
   float: left;
-  height: 100%;
   max-width: 75%;
 }
 .card-title {
@@ -23,11 +22,15 @@
   letter-spacing: 0;
 }
 .card-list {
+  position: absolute;
+  bottom: 0;
   list-style: none;
   padding-left: 0;
+  margin-bottom: 0;
 }
 .card-list li {
   display: inline-block;
   margin-right: 25px;
+  margin-bottom: 0;
   font-weight: 100;
 }
