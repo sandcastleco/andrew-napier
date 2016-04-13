@@ -131,10 +131,12 @@ hr {
   margin-bottom: 2rem;
   border-bottom: 0;
   color: #e7e7e7;
-  font-size: 1.75rem;
+  font-size: 3.5rem;
   position: absolute;
-  top: 20px;
-  left: 20px; }
+  top: -10px;
+  left: 0;
+  -webkit-clip-path: circle(15px at center);
+  clip-path: circle(15px at center); }
 
 .cover {
   height: 100vh; }
