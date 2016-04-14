@@ -33,6 +33,11 @@ img {
   clip: rect(0, 0, 0, 0);
   border: 0; }
 
+.vertical-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%); }
+
 .form-group {
   margin-bottom: 30px; }
 
@@ -106,6 +111,9 @@ hr {
   margin-top: 40px;
   margin-bottom: 40px;
   width: 25%; }
+
+.text-center {
+  text-align: center; }
 
 .wf-loading {
   visibility: hidden; }

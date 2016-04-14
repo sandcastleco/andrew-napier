@@ -35,3 +35,8 @@ img {
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
+.vertical-center {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}

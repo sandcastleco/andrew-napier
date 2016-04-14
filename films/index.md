@@ -18,4 +18,4 @@ title: Work
 </div>
 {% endfor %}
 
-<a href="http://www.imdb.com/name/nm3598310/" target="_blank">More</a>
+<a class="btn" href="http://www.imdb.com/name/nm3598310/" target="_blank">More</a>
