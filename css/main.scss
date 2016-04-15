@@ -2,6 +2,7 @@
 ---
 
 $grey: #777777;
+$light-grey: lighten($grey, 27%);
 
 @import 'global';
 @import 'form';

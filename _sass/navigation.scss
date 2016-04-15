@@ -1,8 +1,10 @@
 .cover {
-  height: 100vh;
+  position: absolute;
+  height: 100%;
+  width: 100%;
 }
 .cover footer {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   right: 0;
 }
@@ -15,6 +17,7 @@
 .nav a {
 	text-decoration: none;
   border-bottom: 0;
+  text-transform: uppercase;
 }
 .nav ul {
   margin-top: 0;

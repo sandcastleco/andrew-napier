@@ -88,9 +88,9 @@ h2 {
   font-size: 1.1rem; }
 
 a {
-  color: #A5A5A5;
+  color: #bcbcbc;
   text-decoration: none;
-  border-bottom: 1px solid rgba(119, 119, 119, 0.5); }
+  border-bottom: 1px solid #bcbcbc; }
 
 ol li,
 ul li {
@@ -126,7 +126,7 @@ hr {
   border: 0;
   font-size: 1rem;
   padding: 10px;
-  border: 1px solid rgba(119, 119, 119, 0.5);
+  border: 1px solid #bcbcbc;
   background-color: transparent;
   border-radius: 5px;
   margin-bottom: 2rem; }
@@ -147,10 +147,12 @@ hr {
   clip-path: circle(15px at center); }
 
 .cover {
-  height: 100vh; }
+  position: absolute;
+  height: 100%;
+  width: 100%; }
 
 .cover footer {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   right: 0; }
 
@@ -162,7 +164,8 @@ hr {
 
 .nav a {
   text-decoration: none;
-  border-bottom: 0; }
+  border-bottom: 0;
+  text-transform: uppercase; }
 
 .nav ul {
   margin-top: 0;
@@ -208,8 +211,7 @@ hr {
 .card-list li {
   display: inline-block;
   margin-right: 25px;
-  margin-bottom: 0;
-  font-weight: 100; }
+  margin-bottom: 0; }
 
 footer {
   text-align: right;
@@ -221,4 +223,4 @@ footer a {
   margin-right: 10px;
   border-bottom: 0;
   font-weight: bold;
-  color: #d8d8d8; }
+  color: #bcbcbc; }

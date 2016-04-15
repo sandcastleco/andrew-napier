@@ -22,9 +22,9 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-	color: #A5A5A5;
+	color: $light-grey;
   text-decoration: none;
-  border-bottom: 1px solid rgba($grey, 0.5);
+  border-bottom: 1px solid $light-grey;
 }
 ol li,
 ul li {
