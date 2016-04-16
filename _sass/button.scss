@@ -20,7 +20,7 @@
 }
 .header-btn {
   display: block;
-	width: 100px;
+	width: 30px;
   margin-bottom: 2rem;
 	border-bottom: 0;
 	font-size: 3.5rem;
@@ -33,4 +33,9 @@
 }
 .header-btn svg path {
 	fill: $light-grey;
+	transition: .3s fill;
+}
+.header-btn:hover svg path {
+	fill: $grey;
+	transition: .3s fill;
 }

@@ -149,7 +149,7 @@ hr {
 
 .header-btn {
   display: block;
-  width: 100px;
+  width: 30px;
   margin-bottom: 2rem;
   border-bottom: 0;
   font-size: 3.5rem;
@@ -161,7 +161,12 @@ hr {
   width: 30px; }
 
 .header-btn svg path {
-  fill: #aaaaaa; }
+  fill: #aaaaaa;
+  transition: .3s fill; }
+
+.header-btn:hover svg path {
+  fill: #777777;
+  transition: .3s fill; }
 
 .cover {
   position: absolute;
