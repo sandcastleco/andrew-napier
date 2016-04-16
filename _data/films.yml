@@ -2,16 +2,18 @@
   role: Director, Producer, Editor, Cinematographer
   image: mad-as-hell.jpg
   category: documentary
+  imdb: http://www.imdb.com/title/tt1826550/
   links:
     - name: Trailer
       link: http://trailers.apple.com/trailers/oscilloscope/madashell/
     - name: Film
       link: https://itunes.apple.com/us/movie/mad-as-hell/id959174781
 
-- title: "Bounce: How the Ball Taught the World to Play"
+- title: "Bounce: How the Ball Taught the World to&nbsp;Play"
   role: Producer, Editor
   image: bounce.jpg
   category: documentary
+  imdb: http://www.imdb.com/title/tt2880596/
   links:
     - name: Trailer
       link: https://vimeo.com/140096570
@@ -22,6 +24,7 @@
   role: Producer, Editor
   image: the-past-is-a-grotesque-animal.jpg
   category: documentary
+  imdb: http://www.imdb.com/title/tt3072636/
   links:
     - name: Trailer
       link: http://trailers.apple.com/trailers/oscilloscope/thepastisagrotesqueanimal/
@@ -32,6 +35,7 @@
   image: mary-and-bill.jpg
   role: Director, Writer, Producer, Editor
   category: documentary
+  imdb: http://www.imdb.com/title/tt1505354/
   links:
     - name: Trailer
       link: https://vimeo.com/3094607
@@ -42,6 +46,7 @@
   role: Director, Editor
   image: grandmas-not-a-toaster.jpg
   category: narrative
+  imdb: http://www.imdb.com/title/tt2596102/
   links:
     - name: Trailer
       link: https://vimeo.com/61916496
@@ -52,6 +57,7 @@
   role: Producer, Assistant Director
   image: curfew.jpg
   category: narrative
+  imdb: http://www.imdb.com/title/tt2088735/
   links:
     - name: Trailer
       link: https://www.youtube.com/watch?v=XLAVg17luqc
@@ -62,6 +68,7 @@
   role: Editor
   image: before-i-disappear.jpg
   category: narrative
+  imdb: http://www.imdb.com/title/tt3060492/
   links:
     - name: Trailer
       link: https://www.youtube.com/watch?v=CXpMydcWdjk
@@ -72,6 +79,7 @@
   role: Executive Producer
   image: the-culture-high.jpg
   category: documentary
+  imdb: http://www.imdb.com/title/tt1778338/
   links:
     - name: Film
       link: https://itunes.apple.com/us/movie/the-culture-high/id924714874

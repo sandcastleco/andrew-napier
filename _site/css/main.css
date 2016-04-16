@@ -45,18 +45,18 @@ img {
   width: 100%;
   padding: 5px 0;
   border: 0;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #aaaaaa;
   transition: .3s border-color; }
 
 .form-control:focus {
   outline: none;
-  border-color: #7E7E7E;
+  border-color: #777777;
   transition: .3s border-color; }
 
 .container {
   padding-left: 20px;
   padding-right: 20px;
-  max-width: 710px;
+  max-width: 750px;
   margin-right: auto;
   margin-left: auto; }
 
@@ -88,9 +88,15 @@ h2 {
   font-size: 1.1rem; }
 
 a {
-  color: #bcbcbc;
+  color: #aaaaaa;
   text-decoration: none;
-  border-bottom: 1px solid #bcbcbc; }
+  border-bottom: 1px solid #aaaaaa;
+  transition: .3s all; }
+
+a:hover {
+  color: #777777;
+  border-color: #777777;
+  transition: .3s all; }
 
 ol li,
 ul li {
@@ -105,7 +111,7 @@ blockquote {
   padding-right: .75rem; }
 
 hr {
-  border-top: 3px solid #E7E7E7;
+  border-top: 3px solid #aaaaaa;
   border-bottom: none;
   border-left: none;
   margin-top: 40px;
@@ -126,25 +132,36 @@ hr {
   border: 0;
   font-size: 1rem;
   padding: 10px;
-  border: 1px solid #bcbcbc;
+  border: 1px solid #aaaaaa;
+  color: #aaaaaa;
   background-color: transparent;
   border-radius: 5px;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  transition: .3s all; }
+
+.btn:hover {
+  color: #777777;
+  border-color: #777777;
+  transition: .3s all; }
 
 .btn-space {
   margin-top: 1rem; }
 
 .header-btn {
   display: block;
+  width: 100px;
   margin-bottom: 2rem;
   border-bottom: 0;
-  color: #d8d8d8;
   font-size: 3.5rem;
   position: absolute;
-  top: -10px;
-  left: 0;
-  -webkit-clip-path: circle(15px at center);
-  clip-path: circle(15px at center); }
+  top: 0;
+  left: 20px; }
+
+.header-btn svg {
+  width: 30px; }
+
+.header-btn svg path {
+  fill: #aaaaaa; }
 
 .cover {
   position: absolute;
@@ -202,12 +219,14 @@ hr {
   letter-spacing: 0; }
 
 .card-list {
-  position: absolute;
-  bottom: 0;
   list-style: none;
   padding-left: 0;
   margin-bottom: 0; }
 
+@media (min-width: 768px) {
+  .card-list {
+    position: absolute;
+    bottom: 0; } }
 .card-list li {
   display: inline-block;
   margin-right: 25px;
@@ -223,4 +242,4 @@ footer a {
   margin-right: 10px;
   border-bottom: 0;
   font-weight: bold;
-  color: #bcbcbc; }
+  color: #aaaaaa; }

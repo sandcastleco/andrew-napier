@@ -5,7 +5,7 @@ title: Work
 
 {% for film in site.data.films %}
 <div class="card">
-  <img class="card-image" src="/img/{{ film.image }}" alt="{{ film.title }}">
+  <a href="{{ film.imdb }}" target="_blank"><img class="card-image" src="/img/{{ film.image }}" alt="{{ film.title }}"></a>
   <div class="card-main">
     <h2 class="card-title">{{ film.title }}</h2>
     <p>{{ film.role }}</p>

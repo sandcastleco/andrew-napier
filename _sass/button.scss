@@ -4,22 +4,33 @@
 	font-size: 1rem;
 	padding: 10px;
   border : 1px solid $light-grey;
+	color: $light-grey;
   background-color: transparent;
 	border-radius: 5px;
   margin-bottom: 2rem;
+	transition: .3s all;
+}
+.btn:hover {
+	color: $grey;
+	border-color: $grey;
+	transition: .3s all;
 }
 .btn-space {
 	margin-top: 1rem;
 }
 .header-btn {
   display: block;
+	width: 100px;
   margin-bottom: 2rem;
 	border-bottom: 0;
-	color: lighten($grey, 38%);
 	font-size: 3.5rem;
 	position: absolute;
-	top: -10px;
-	left: 0;
-	-webkit-clip-path: circle(15px at center);
-	clip-path: circle(15px at center);
+	top: 0;
+	left: 20px;
+}
+.header-btn svg {
+	width: 30px;
+}
+.header-btn svg path {
+	fill: $light-grey;
 }

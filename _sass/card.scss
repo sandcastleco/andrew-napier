@@ -22,11 +22,15 @@
   letter-spacing: 0;
 }
 .card-list {
-  position: absolute;
-  bottom: 0;
   list-style: none;
   padding-left: 0;
   margin-bottom: 0;
+}
+@media(min-width: 768px) {
+  .card-list {
+    position: absolute;
+    bottom: 0;
+  }
 }
 .card-list li {
   display: inline-block;

@@ -25,6 +25,12 @@ a {
 	color: $light-grey;
   text-decoration: none;
   border-bottom: 1px solid $light-grey;
+	transition: .3s all;
+}
+a:hover {
+	color: $grey;
+	border-color: $grey;
+	transition: .3s all;
 }
 ol li,
 ul li {
@@ -39,7 +45,7 @@ blockquote {
   padding-right: .75rem;
 }
 hr {
-	border-top: 3px solid #E7E7E7;
+	border-top: 3px solid $light-grey;
 	border-bottom: none;
 	border-left: none;
 	margin-top: 40px;
