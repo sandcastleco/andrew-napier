@@ -19,23 +19,16 @@
 	margin-top: 1rem;
 }
 .header-btn {
-  display: block;
-	width: 30px;
-  margin-bottom: 2rem;
 	border-bottom: 0;
-	font-size: 3.5rem;
 	position: absolute;
-	top: 0;
+	top: 20px;
 	left: 20px;
-}
-.header-btn svg {
-	width: 30px;
 }
 .header-btn svg path {
 	fill: $light-grey;
-	transition: .3s fill;
+	transition: .3s all;
 }
 .header-btn:hover svg path {
 	fill: $grey;
-	transition: .3s fill;
+	transition: .3s all;
 }
