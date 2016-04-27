@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: Films
 ---
 
 {% for film in site.data.films %}
