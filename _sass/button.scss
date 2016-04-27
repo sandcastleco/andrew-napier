@@ -32,3 +32,14 @@
 	fill: $grey;
 	transition: .3s all;
 }
+
+.logo #sandcastle,
+.logo #flag {
+	fill: $light-grey;
+	transition: .3s all;
+}
+.logo:hover #sandcastle,
+.logo:hover #flag {
+	fill: $grey;
+	transition: .3s all;
+}

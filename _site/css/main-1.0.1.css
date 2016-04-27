@@ -124,6 +124,9 @@ hr {
 .text-center {
   text-align: center; }
 
+.text-right {
+  text-align: right; }
+
 .wf-loading {
   visibility: hidden; }
 
@@ -161,6 +164,16 @@ hr {
   transition: .3s all; }
 
 .header-btn:hover svg path {
+  fill: #777777;
+  transition: .3s all; }
+
+.logo #sandcastle,
+.logo #flag {
+  fill: #aaaaaa;
+  transition: .3s all; }
+
+.logo:hover #sandcastle,
+.logo:hover #flag {
   fill: #777777;
   transition: .3s all; }
 
@@ -252,13 +265,19 @@ hr {
   animation-direction: alternate; }
 
 footer {
-  text-align: right;
+  width: 100%;
   padding: 1rem; }
+
+footer .col {
+  display: inline-block;
+  width: 50%; }
 
 footer a {
   display: inline-block;
   margin-left: 10px;
-  margin-right: 10px;
-  border-bottom: 0;
+  margin-right: 10px; }
+
+.social a {
   font-weight: bold;
+  border-bottom: 0;
   color: #aaaaaa; }
