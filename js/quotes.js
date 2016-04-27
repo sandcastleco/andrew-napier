@@ -20,8 +20,7 @@ var quotes = [
   "Andrew Napier's Past Is A Grotesque Animal",
   "Andrew Napier is Mad As Heck Gosh Darnit!!",
   "Andrew Napier Disappeared",
-  "Andrew Napier Has Sharp Dog-Teeth",
-  "Andrew Napier Loves Playing Badminton And Is Not Ashamed To Say It, But He Almost Never Plays... Where Does One Play Badminton? Who Would Even Play It With Him?"
+  "Andrew Napier Has Sharp Dog-Teeth"
 ];
 
 function getRandomQuote() {
