@@ -1,12 +1,14 @@
 ---
-layout: page
+layout: center
 title: Credits
 no-social: true
 ---
 
 # Credits
 
-This site was designed and developed in April 2016 by [Sandcastle](http://sandcastle.co) for Andrew Napier. Built in Oakland, CA, Green Bay, WI, and all over Japan.
+This site was designed and developed in April 2016 by [Sandcastle](http://sandcastle.co) for Andrew Napier.
+
+Built in Oakland, CA, Green Bay, WI, and all over Japan.
 
 Body text is typeset in [Enzo](https://typekit.com/fonts/ff-enzo-web). Headings are typeset in [Gibson](https://typekit.com/fonts/canada-type-gibson).
 
