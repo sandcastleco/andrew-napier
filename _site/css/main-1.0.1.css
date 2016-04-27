@@ -167,15 +167,18 @@ hr {
   fill: #777777;
   transition: .3s all; }
 
-.logo #sandcastle,
-.logo #flag {
-  fill: #aaaaaa;
-  transition: .3s all; }
+svg {
+  cursor: pointer; }
 
-.logo:hover #sandcastle,
-.logo:hover #flag {
+svg path {
+  fill: #aaaaaa;
+  -webkit-transition: .3s fill;
+  transition: .3s fill; }
+
+svg:hover path {
   fill: #777777;
-  transition: .3s all; }
+  -webkit-transition: .3s fill;
+  transition: .3s fill; }
 
 .cover {
   position: absolute;
