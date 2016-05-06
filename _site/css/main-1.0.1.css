@@ -220,7 +220,7 @@ svg:hover path {
   margin-bottom: 20px; }
 
 .nav hr {
-  margin-top: 9rem; }
+  border-top: 1px solid #aaaaaa; }
 
 .card {
   position: relative;
@@ -258,6 +258,9 @@ svg:hover path {
   display: inline-block;
   margin-right: 25px;
   margin-bottom: 0; }
+
+#quote {
+  color: #aaaaaa; }
 
 @keyframes blink {
   from {
