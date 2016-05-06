@@ -1,10 +1,17 @@
 footer {
+  overflow: auto;
   width: 100%;
   padding: 1rem;
 }
-footer .col {
-  display: inline-block;
+.col {
+  float: left;
   width: 50%;
+}
+@media(min-width:768px) {
+  footer .col-md {
+    float: left;
+    width: 50%;
+  }
 }
 footer a {
   display: inline-block;

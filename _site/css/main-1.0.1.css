@@ -259,9 +259,30 @@ svg:hover path {
   margin-right: 25px;
   margin-bottom: 0; }
 
-#quote {
-  color: #aaaaaa; }
+.quote {
+  color: #aaaaaa;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto; }
 
+#quote2,
+#quote2 + .cursor {
+  visibility: hidden;
+  font-size: 0; }
+
+@media (min-width: 768px) {
+  .quote {
+    max-width: 100%; }
+
+  #quote1,
+  #quote1 + .cursor,
+  .cursor + hr {
+    display: none; }
+
+  #quote2,
+  #quote2 + .cursor {
+    visibility: visible;
+    font-size: 1rem; } }
 @keyframes blink {
   from {
     opacity: 0; }
@@ -276,13 +297,18 @@ svg:hover path {
   animation-direction: alternate; }
 
 footer {
+  overflow: auto;
   width: 100%;
   padding: 1rem; }
 
-footer .col {
-  display: inline-block;
+.col {
+  float: left;
   width: 50%; }
 
+@media (min-width: 768px) {
+  footer .col-md {
+    float: left;
+    width: 50%; } }
 footer a {
   display: inline-block;
   margin-left: 10px;

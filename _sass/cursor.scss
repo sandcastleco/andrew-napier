@@ -1,5 +1,28 @@
-#quote {
+.quote {
   color: $light-grey;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#quote2,
+#quote2 + .cursor {
+  visibility: hidden;
+  font-size: 0;
+}
+@media (min-width: 768px) {
+  .quote {
+    max-width: 100%;
+  }
+  #quote1,
+  #quote1 + .cursor,
+  .cursor + hr {
+    display: none;
+  }
+  #quote2,
+  #quote2 + .cursor {
+    visibility: visible;
+    font-size: 1rem;
+  }
 }
 @keyframes blink {
   from {

@@ -1,5 +1,6 @@
 window.onload = function() {
-  var quoteNode = document.getElementById("quote");
+  var quoteNode = document.getElementById("quote1");
+  var quoteNode2 = document.getElementById("quote2");
 
   function loopAgain(delay) {
     window.setTimeout(loop, delay || 2500);
@@ -7,7 +8,10 @@ window.onload = function() {
 
   function typeLetter(quote, index, timing) {
     window.setTimeout(function() {
-      quoteNode.textContent += quote.charAt(index);
+      if (quoteNode != null) {
+        quoteNode.textContent += quote.charAt(index);
+      }
+      quoteNode2.textContent += quote.charAt(index);
       if (index == quote.length - 1) {
         loopAgain();
       }
@@ -21,7 +25,10 @@ window.onload = function() {
   }
 
   function loop() {
-    quoteNode.textContent = "";
+    if (quoteNode != null) {
+      quoteNode.textContent = "";
+    }
+    quoteNode2.textContent = "";
     var quote = getRandomQuote();
     typeQuote(quote);
   }
