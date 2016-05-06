@@ -262,6 +262,8 @@ svg:hover path {
 .quote {
   color: #aaaaaa;
   max-width: 320px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-left: auto;
   margin-right: auto; }
 
@@ -272,7 +274,9 @@ svg:hover path {
 
 @media (min-width: 768px) {
   .quote {
-    max-width: 100%; }
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0; }
 
   #quote1,
   #quote1 + .cursor,
@@ -305,15 +309,13 @@ footer {
   float: left;
   width: 50%; }
 
-@media (min-width: 768px) {
-  footer .col-md {
-    float: left;
-    width: 50%; } }
 footer a {
   display: inline-block;
-  margin-left: 10px;
   margin-right: 10px; }
 
+@media (min-width: 768px) {
+  footer a {
+    margin-left: 10px; } }
 .social a {
   font-weight: bold;
   border-bottom: 0;

@@ -1,6 +1,8 @@
 .quote {
   color: $light-grey;
   max-width: 320px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -12,6 +14,8 @@
 @media (min-width: 768px) {
   .quote {
     max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
   }
   #quote1,
   #quote1 + .cursor,

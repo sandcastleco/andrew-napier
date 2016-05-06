@@ -7,16 +7,14 @@ footer {
   float: left;
   width: 50%;
 }
-@media(min-width:768px) {
-  footer .col-md {
-    float: left;
-    width: 50%;
-  }
-}
 footer a {
   display: inline-block;
-  margin-left: 10px;
   margin-right: 10px;
+}
+@media(min-width: 768px) {
+  footer a {
+    margin-left: 10px;
+  }
 }
 .social a {
   font-weight: bold;
