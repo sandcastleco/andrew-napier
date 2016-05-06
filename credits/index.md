@@ -12,7 +12,8 @@ Built in Oakland, CA, Green Bay, WI, and all over Japan.
 
 Body text is typeset in [Enzo](https://typekit.com/fonts/ff-enzo-web). Headings are typeset in [Gibson](https://typekit.com/fonts/canada-type-gibson).
 
-Design by [Foster Douglas](http://twitter.com/_fosterdouglas). Development by [Kevin McGillivray](http://twitter.com/kev_mcg).
+Design by [Foster Douglas](http://twitter.com/_fosterdouglas). Development by [Kevin McGillivray](http://twitter.com/kev_mcg).  
+Graphic design by [Amanda Tannen](https://amandatannen.carbonmade.com).
 
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 220" style="max-width: 70px;">
   <a xlink:href="http://sandcastle.co" target="_parent">
