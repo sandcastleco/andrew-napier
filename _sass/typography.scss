@@ -32,6 +32,9 @@ a:hover {
 	border-color: $grey;
 	transition: .3s all;
 }
+.alt-link {
+	border-bottom: 0;
+}
 ol li,
 ul li {
   margin-top: 0px;
