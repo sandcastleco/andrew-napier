@@ -16,15 +16,14 @@ var quotes = [
   'Ask Your Doctor if Andrew Napier Is Right For You',
   'Andrew Napier: Recommended By Andrew Napier',
   'Andrew Napier, Formerly Known As Andrew Napier',
-  'Andrew Napier: Now Available With A Low, Low, 5.8% A.P.R. Financing!',
-  'Andrew Napier: Now In 3D',
+  'Andrew Napier: Now Available With A Low, Low, 5.8% APR Financing!',
+  'Andrew Napier... Now In 3D!',
   'Andrew Napier Is Following You… But Not On Instagram',
-  'Andrew Napier Brought To You By Andrew Napier’s Mom & Dad',
   'Andrew Napier Is Based On A Film That Was Loosely Based On A Novel That Was Inspired By A Trueish Story',
   'Andrew Napier: Based On The Novel By Andrew Napier',
   'Andrew Napier Is Coming Soon To A Theater Near You! Or A Computer... Probably A Computer…',
   'Andrew Napier Is 60% H2O, 30% Awesome, & 10% Unsure',
-  'Andrew Napier Wonders Why Oh Why Didn\'t He Take The BLUE Pill?',
+  'Andrew Napier Wonders "Why Oh Why Didn\'t He Take The BLUE Pill?"',
   'Andrew Napier Is Made With Love... And Other Gross Stuff',
   'Andrew Napier Is Your Imaginary Friend',
   'Andrew Napier Is Not A Substitute For Good Wholesome ________ (Fill In The Blank)',
@@ -67,7 +66,7 @@ function getRandomQuote() {
     return quote;
   } else {
     if (visitedQuotes.length == quotes.length) {
-      var quote = "Wow... you saw all of the quotes... I'm impressed!";
+      var quote = "Wow... You Saw All Of The Quotes... Andrew Is Impressed! Also, You Have Way Too Much Time On Your Hands...";
       return quote;
     } else {
       return getRandomQuote();
