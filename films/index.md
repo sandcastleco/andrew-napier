@@ -18,4 +18,4 @@ title: Films
 </div>
 {% endfor %}
 
-<a class="btn" href="http://www.imdb.com/name/nm3598310/" target="_blank">More</a>
+<a class="btn" href="/documents/Andrew Napier Profile.pdf">Filmmaker Profile PDF</a><br><a class="btn" href="http://www.imdb.com/name/nm3598310/" target="_blank">More on IMDb</a>
