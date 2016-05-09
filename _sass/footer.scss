@@ -1,11 +1,15 @@
 footer {
   position: relative;
   bottom: 0;
-  min-height: 120px;
   left: 0;
   overflow: auto;
   width: 100%;
   padding: 1rem;
+}
+@media (min-width: 768px) {
+  footer {
+    min-height: 120px;
+  }
 }
 .col {
   display: inline-block;
