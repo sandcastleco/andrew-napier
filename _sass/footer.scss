@@ -1,11 +1,30 @@
 footer {
+  position: relative;
+  bottom: 0;
+  min-height: 120px;
+  left: 0;
   overflow: auto;
   width: 100%;
   padding: 1rem;
 }
 .col {
-  float: left;
+  display: inline-block;
+  vertical-align: bottom;
   width: 50%;
+}
+footer .quote {
+  position: absolute;
+  bottom: 15px;
+  max-width: 50%
+}
+footer .credits-link {
+  position: absolute;
+  bottom: 15px;
+}
+footer .social {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
 }
 footer a {
   display: inline-block;
@@ -19,5 +38,4 @@ footer a {
 .social a {
   font-weight: bold;
   border-bottom: 0;
-  color: $light-grey;
 }
