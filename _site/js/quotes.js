@@ -32,7 +32,7 @@ var quotes = [
   'No Andrew Napiers Were Harmed In The Making Of This Website',
   'Andrew Napier: Cheesehead',
   'Andrew Napier: As Seen On This Website',
-  '"Andrew Napier Is A Nice Guy! He’s A Nice Guy! But That Doesnt Cut It When He’s Bullshiting Around Like This!" ~ Christian Bale',
+  '"Andrew Napier Is A Nice Guy! He’s A Nice Guy! But That Doesnt Cut It When He’s Bullshiting Around Like This!" ~ Christian Bale*',
   'Andrew Napier Feels Bad For J.F. Sebastian',
   'Andrew\'s Last Name Is Napier',
   'Andrew Napier Is Your Mom',
@@ -56,7 +56,8 @@ var quotes = [
   'Andrew Napier Is Mad As Heck Gosh Darnit!!',
   'Andrew Napier\'s Balls Taught The World To Play',
   'Andrew Napier Disappeared',
-  'Andrew Napier Has Sharp Dog-Teeth'
+  'Andrew Napier Has Sharp Dog-Teeth',
+  'Andrew Napier\'s Website Is Better Than Your Website'
 ];
 var visitedQuotes = [];
 function getRandomQuote() {
