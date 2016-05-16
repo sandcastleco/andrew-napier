@@ -228,6 +228,29 @@ svg:hover path {
 @media (min-width: 768px) {
   .nav hr {
     opacity: 0; } }
+.panel-list {
+  list-style: none;
+  padding-left: 0; }
+
+.panel-list li {
+  border-bottom: 1px solid rgba(170, 170, 170, 0.3);
+  margin-bottom: 0;
+  padding: 10px;
+  overflow: auto; }
+
+.panel-list span {
+  float: left; }
+
+.panel-list .content {
+  width: 75%; }
+
+.panel-list .controls {
+  width: 25%;
+  text-align: right; }
+
+.panel-list .fa {
+  padding-left: 10px; }
+
 .card {
   position: relative;
   overflow: auto;
