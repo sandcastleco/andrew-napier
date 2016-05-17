@@ -1,14 +1,16 @@
 var quotes = {};
 var quoteList;
+var quoteForm;
 var submitButton;
 var formInput;
 var deleteButtons;
 var editButtons;
 var isEditing;
 var quoteToEdit;
-
-var rootRef = new Firebase('https://andrew-napier.firebaseio.com');
-var quotesRef = rootRef.child("quotes");
+var emailInput;
+var passwordInput;
+var loginButton;
+var loggedIn;
 
 function updateQuoteList() {
   quoteList.innerHTML = "";
@@ -52,33 +54,67 @@ function createDeleteButtons() {
   }
 }
 
+function hideLogin() {
+  var loginForm = document.getElementById("login-form");
+  loginForm.style.display = "none";
+}
+
+function showOtherStuff() {
+  quoteForm.style.display = "initial";
+  quoteList.style.display = "initial";
+}
+
 window.onload = function() {
+
   quoteList = document.getElementById("quote-list");
   submitButton = document.getElementById("submit");
+  quoteForm = document.getElementById("quote-form");
   formInput = document.getElementById("quote-input");
+  loginButton = document.getElementById("login-submit");
+  passwordInput = document.getElementById("password-input");
 
-  // quotesRef.push("test");
+  quoteForm.style.display = "none";
+  quoteList.style.display = "none";
+
+  loginButton.addEventListener("mousedown", function() {
+    rootRef.authWithPassword({
+      email    : 'andrewnapier@gmail.com',
+      password : passwordInput.value
+    });
+  });
+
+  rootRef.onAuth(function(authdata) {
+    if (authdata) {
+      loggedIn = true;
+      hideLogin();
+      showOtherStuff();
+    }
+  });
 
   // Get the data from firebase and populate the list
   quotesRef.on("value", function(snapshot) {
     console.log(snapshot.val());
     quotes = snapshot.val();
-    updateQuoteList();
-    createDeleteButtons();
-    createEditButtons();
+    if (loggedIn) {
+      updateQuoteList();
+      createDeleteButtons();
+      createEditButtons();
+    }
   }, function (errorObject) {
     console.log("The read failed: " + errorObject.code);
   });
 
   // Set up an event listener to send the data to firebase when the form is submitted and update the list
   submitButton.addEventListener("mousedown", function() {
-    if (isEditing) {
-      quoteToEdit.set(formInput.value);
-      formInput.value = "";
-      stopEditing();
-    } else {
-      quotesRef.push(formInput.value);
-      formInput.value = "";
+    if (formInput.value != "") {
+      if (isEditing) {
+        quoteToEdit.set(formInput.value);
+        formInput.value = "";
+        stopEditing();
+      } else {
+        quotesRef.push(formInput.value);
+        formInput.value = "";
+      }
     }
   });
 

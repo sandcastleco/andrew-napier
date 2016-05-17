@@ -33,6 +33,10 @@ window.onload = function() {
     typeQuote(quote);
   }
 
-  loop();
+  quotesRef.on("value", function(snapshot) {
+    loop();
+  }, function (errorObject) {
+    console.log("The read failed: " + errorObject.code);
+  });
 
 }

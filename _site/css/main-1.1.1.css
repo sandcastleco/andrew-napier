@@ -150,6 +150,9 @@ hr {
   border-color: #777777;
   transition: .3s all; }
 
+.btn:focus {
+  outline: 0; }
+
 .btn-space {
   margin-top: 1rem; }
 
