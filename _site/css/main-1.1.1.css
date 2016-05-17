@@ -249,6 +249,7 @@ svg:hover path {
   text-align: right; }
 
 .panel-list .fa {
+  cursor: pointer;
   padding-left: 10px; }
 
 .card {
