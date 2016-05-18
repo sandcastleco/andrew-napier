@@ -1,6 +1,11 @@
 # Changelog
 
-##v1.1.2
+## v1.2.0
+
+* Add the ability to edit the quotes list from an admin page
+
+## v1.1.2
+
 * Change PDF button to \_blank
 * tons and tons of Secret page additions
 * Clicking the scrolling quotes on any page leads to the secret page (including mobile)

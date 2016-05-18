@@ -364,6 +364,12 @@ footer .quote {
   bottom: 15px;
   max-width: 50%; }
 
+@media (min-width: 768px) {
+  .col {
+    width: 25%; }
+
+  footer .quote {
+    max-width: 70%; } }
 footer .credits-link {
   position: absolute;
   bottom: 15px; }
