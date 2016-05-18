@@ -2,44 +2,33 @@ var quotes;
 var keys;
 var visitedQuotes = [];
 
-var rootRef = new Firebase('https://andrew-napier.firebaseio.com');
-var quotesRef = rootRef.child("quotes");
-
 quotesRef.on("value", function(snapshot) {
   console.log(snapshot.val());
   quotes = snapshot.val();
   keys = Object.keys(quotes);
-  //getRandomQuote();
 }, function (errorObject) {
   console.log("The read failed: " + errorObject.code);
 });
 
-function getRandomQuote() {
-  var quoteId = keys[Math.floor(Math.random() * keys.length)];
-  if (visitedQuotes.indexOf(quoteId) == -1) {
-    visitedQuotes.push(quoteId);
-    return quotes[quoteId];
-  } else {
-    if (visitedQuotes.length == keys.length) {
-      var quote = "Wow... You Saw All Of The Quotes... Andrew Is Impressed! Also, You Have Way Too Much Time On Your Hands...";
-      return quote;
+function QuoteMachine() {
+  this.visitedQuotes = [];
+}
+
+QuoteMachine.prototype = {
+  function getRandomQuote() {
+    var quoteId = keys[Math.floor(Math.random() * keys.length)];
+    if (visitedQuotes.indexOf(quoteId) == -1) {
+      visitedQuotes.push(quoteId);
+      return quotes[quoteId];
     } else {
-      return getRandomQuote();
+      if (visitedQuotes.length == keys.length) {
+        var quote = "Wow... You Saw All Of The Quotes... Andrew Is Impressed! Also, You Have Way Too Much Time On Your Hands...";
+        return quote;
+      } else {
+        return getRandomQuote();
+      }
     }
   }
-  // var quote = quotes[Math.floor(Math.random() * quotes.length)];
-  // if (visitedQuotes.indexOf(quote) == -1) {
-  //   visitedQuotes.push(quote);
-  //   return quote;
-  // } else {
-  //   if (visitedQuotes.length == quotes.length) {
-  //     var quote = "Wow... You Saw All Of The Quotes... Andrew Is Impressed! Also, You Have Way Too Much Time On Your Hands...";
-  //     return quote;
-  //   } else {
-  //     return getRandomQuote();
-  //   }
-  //
-  // }
 }
 
 // var quotes = [

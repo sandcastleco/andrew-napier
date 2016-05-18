@@ -3,7 +3,7 @@
   <div class="col">
     {% unless page.title == "Contact" %}
     <div class="quote">
-      <span id="quote2"></span><span class="cursor">|</span>
+      <span class="quote-content" id="quote2"></span><span class="cursor">|</span>
     </div>
     {% endunless %}
     {% if page.title == "Contact" %}
@@ -18,9 +18,20 @@
 </footer>
 {% endunless %}
 
-<script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>
+<!--
 <script src="/js/quotes.js"></script>
 <script src="/js/secret.js"></script>
 {% if page.title == "Admin" %}
 <script src="/js/admin.js"></script>
+{% endif %} -->
+<script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>
+<script src="/js/data.js"></script>
+<script src="/js/QuoteMachine.js"></script>
+<script src="/js/Typewriter.js"></script>
+<script src="/js/main.js"></script>
+{% if page.title == "Admin" %}
+<script src="/js/admin.js"></script>
+{% endif %}
+{% if page.title == "Dashboard" %}
+<script src="/js/dashboard.js"></script>
 {% endif %}

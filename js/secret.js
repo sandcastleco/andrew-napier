@@ -1,3 +1,7 @@
+function Typewriter() {
+  
+}
+
 window.onload = function() {
   var quoteNode = document.getElementById("quote1");
   var quoteNode2 = document.getElementById("quote2");

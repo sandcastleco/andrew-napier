@@ -1,33 +1,99 @@
 (function() {
 
-  var loginButton;
-  var loginInput;
+  var logoutButton;
+  var quoteList;
+  var formInput;
+  var submitButton;
+  var deleteButtons;
+  var editButtons;
+  var isEditing;
 
   rootRef.onAuth(function(authdata) {
     if (authdata) {
-      window.location.href = "/dashboard";
+      console.log("logged in");
+    } else {
+      window.location.href = "/admin";
     }
   });
 
-  function login() {
-    rootRef.authWithPassword({
-      email    : 'andrewnapier@gmail.com',
-      password : loginInput.value
-    });
+  function logout() {
+    rootRef.unauth();
+  }
+
+  function updateQuoteList() {
+    quoteList.innerHTML = "";
+    for (var quote in quotes) {
+      quoteList.innerHTML += "<li><span class='content'>" + quotes[quote] + "</span><span class='controls' data-key=" + quote + "><i class='fa fa-pencil'></i><i class='fa fa-trash'></i></span></li>";
+    }
+  }
+
+  function createDeleteButtons() {
+    deleteButtons = document.getElementsByClassName("fa-trash");
+    for (var i = 0; i < deleteButtons.length; i++) {
+      deleteButtons[i].addEventListener("mousedown", function() {
+        var key = this.parentElement.dataset.key;
+        quotesRef.child(key).remove();
+        updateQuoteList();
+        createDeleteButtons();
+      });
+    }
+  }
+
+  function createEditButtons() {
+    editButtons = document.getElementsByClassName("fa-pencil");
+    for (var i = 0; i < editButtons.length; i++) {
+      editButtons[i].addEventListener("mousedown", function() {
+        startEditing();
+        var key = this.parentElement.dataset.key;
+        var quote = quotes[key];
+        quoteToEdit = quotesRef.child(key);
+        formInput.value = quote;
+      });
+    }
+  }
+
+  function startEditing() {
+    isEditing = true;
+    submitButton.innerText = "Update quote";
+  }
+
+  function stopEditing() {
+    isEditing = false;
+    submitButton.innerText = "Add quote";
+  }
+
+  function createQuoteList() {
+    updateQuoteList();
+    createDeleteButtons();
+    createEditButtons();
   }
 
   window.onload = function() {
-    loginInput = document.getElementById("password-input");
-    loginButton = document.getElementById("login-button");
+    logoutButton = document.getElementById("logout-button");
+    quoteList = document.getElementById("quote-list");
+    formInput = document.getElementById("quote-input");
+    submitButton = document.getElementById("submit-button");
 
-    loginInput.addEventListener("keypress", function(event) {
-      if (event.keyCode == 13) {
-        event.preventDefault();
-        login();
-      }
+    quotesRef.on("value", function(snapshot) {
+      createQuoteList();
+    }, function (errorObject) {
+      console.log("The read failed: " + errorObject.code);
     });
 
-    loginButton.addEventListener("mousedown", login);
+    logoutButton.addEventListener("mousedown", logout);
+
+    submitButton.addEventListener("mousedown", function() {
+      if (formInput.value != "") {
+        if (isEditing) {
+          quoteToEdit.set(formInput.value);
+          formInput.value = "";
+          stopEditing();
+        } else {
+          quotesRef.push(formInput.value);
+          formInput.value = "";
+        }
+      }
+    });
 
   }
 
