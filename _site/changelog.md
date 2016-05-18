@@ -1,5 +1,12 @@
 # Changelog
 
+##v1.1.2
+* Change PDF button to \_blank
+* tons and tons of Secret page additions
+* Clicking the scrolling quotes on any page leads to the secret page (including mobile)
+* Add/edit quotes
+* Change all links on credit page and filmaker PDF to \_blank
+
 ## v1.1.1
 
 * Stop mobile menu from moving when quotes expand

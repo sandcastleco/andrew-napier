@@ -6,18 +6,18 @@ no-social: true
 
 # Credits
 
-This site was designed and developed in April 2016 by [Sandcastle](http://sandcastle.co) for Andrew Napier.
+This site was designed and developed in April 2016 by <a href="http://sandcastle.co" target="_blank">Sandcastle</a> for Andrew Napier.
 
 Built in Oakland, CA, Green Bay, WI, and all over Japan.
 
-Body text is typeset in [Enzo](https://typekit.com/fonts/ff-enzo-web). Headings are typeset in [Gibson](https://typekit.com/fonts/canada-type-gibson).
+Body text is typeset in <a href="https://typekit.com/fonts/ff-enzo-web" target="_blank">Enzo</a>. Headings are typeset in <a href="https://typekit.com/fonts/canada-type-gibson" target="_blank">Gibson</a>.
 
-Design by [Foster Douglas](http://twitter.com/_fosterdouglas). Development by [Kevin McGillivray](http://twitter.com/kev_mcg).
+Design by <a href="http://twitter.com/_fosterdouglas" target="_blank">Foster Douglas</a>. Development by <a href="http://twitter.com/kev_mcg" target="_blank">Kevin McGillivray</a>.
 
-Special thanks to [Amanda Tannen](https://amandatannen.carbonmade.com).
+Special thanks to <a href="https://amandatannen.carbonmade.com" target="_blank">Amanda Tannen</a>.
 
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 220" style="max-width: 70px;">
-  <a xlink:href="http://sandcastle.co" target="_parent">
+  <a xlink:href="http://sandcastle.co" target="_blank">
     <path d="M198.6,197.6c-23.8-27.4-20.8-75.5-31.7-134.2c-0.3-1.9-2-3.2-3.9-3.2h-16.7c-2,0-3.6,1.5-3.9,3.4l-1.1,8.8
 c-0.2,2-1.9,3.4-3.9,3.4h-15c-1.8,0-3.4-1.2-3.8-3l-2.4-9.7c-0.4-1.7-2-3-3.8-3H87.4c-1.8,0-3.4,1.2-3.8,3l-2.4,9.7
 c-0.4,1.7-2,3-3.8,3h-15c-2,0-3.6-1.5-3.9-3.4l-1.1-8.8c-0.2-2-1.9-3.4-3.9-3.4H36.9c-1.9,0-3.5,1.4-3.9,3.2
