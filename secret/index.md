@@ -42,11 +42,19 @@ Freshman year at UW-Madison, Andrew had a huge crush on his art teacher, but she
 
 ---
 
-<iframe src="https://player.vimeo.com/video/112014249" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/166052381" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## _Mad As Hell_ — Los Angeles Premiere Footage (2014)
+## _Spin Cycle_ (2008)
 
-Never before released behind the scenes footage of the Los Angeles Premiere of _Mad As Hell_ and the awkward Q/A afterwards. Watch the film and see more special features at: [www.MadAsHellFilm.com](http://www.madashellfilm.com).
+A quirky vignette of two strangers, a Laundromat and the silent battle that ensues over the last remaining washing machine. An independent film made at UW-Madison and co-directed with a fellow student, Michael Anderson.
+
+---
+
+<iframe src="https://player.vimeo.com/video/2657364" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## _American Entrepreneurs_ (2008)
+
+A short film that documents the 2008 trip of the McKelvey Foundation's Entrepreneurial Scholarships winners. Andy McKelvey (co-founder of Monster.com, billionaire and philanthropist) and his daughter Christine (president of the McKelvey Foundation) initially selected Andrew as one of their scholarship winners in 2007, providing a full ride scholarship for his education at UW-Madison. (They brought him back to film the 2008 trip to make this video about their organization.) One of the stipulations of the scholarship was that the scholar was not allowed to miss a single semester of college. Andrew faced a dilemma when he was fortunate to get the opportunity to work on the set of Quentin Tarantino's _Inglourious Basterds_ later that year in 2008. But that meant missing well over a semester at UW-Madison and losing the scholarship. Andrew discussed this with Andy during the making of this video at the 2008 retreat, and Andy was kind enough to make the exception to allow Andrew to go back to school with the scholarship if he wanted after the experience working for Tarantino. But Andy also said that after Andrew left school and had that experience, he guaranteed that Andrew would not go back to school, and that he would move to Los Angeles pursue filmmaking. Andy was 100% right. A couple months later, Andy McKelvey died in New York City at age 74 on November 27, 2008 of pancreatic cancer. Both Andy and Christine are important influences on Andrew's life, and he is deeply and forever grateful to them.
 
 ---
 
@@ -63,14 +71,6 @@ The making of _Before I Disappear_, a feature film adapted from the Academy Awar
 ## _Before I Disappear_ -- Wrap Party & Bloopers (2014)
 
 Wrap party and blooper video for _Before I Disappear_. Originally shown at the BID wrap party but never publicly released. Again, guys, don't sue Andrew. He wasn't paid for this either. And he's broke anyway. It's all in good fun and made with love... and other gross stuff.
-
----
-
-<iframe src="https://player.vimeo.com/video/2657364" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-## _American Entrepreneurs_ (2008)
-
-A short film that documents the 2008 trip of the McKelvey Foundation's Entrepreneurial Scholarships winners. Andy McKelvey (co-founder of Monster.com, billionaire and philanthropist) and his daughter Christine (president of the McKelvey Foundation) initially selected Andrew as one of their scholarship winners in 2007, providing a full ride scholarship for his education at UW-Madison. (They brought him back to film the 2008 trip to make this video about their organization.) One of the stipulations of the scholarship was that the scholar was not allowed to miss a single semester of college. Andrew faced a dilemma when he was fortunate to get the opportunity to work on the set of Quentin Tarantino's _Inglourious Basterds_ later that year in 2008. But that meant missing well over a semester at UW-Madison and losing the scholarship. Andrew discussed this with Andy during the making of this video at the 2008 retreat, and Andy was kind enough to make the exception to allow Andrew to go back to school with the scholarship if he wanted after the experience working for Tarantino. But Andy also said that after Andrew left school and had that experience, he guaranteed that Andrew would not go back to school, and that he would move to Los Angeles pursue filmmaking. Andy was 100% right. A couple months later, Andy McKelvey died in New York City at age 74 on November 27, 2008 of pancreatic cancer. Both Andy and Christine are important influences on Andrew's life, and he is deeply and forever grateful to them.
 
 ---
 
@@ -99,22 +99,6 @@ Cenk had Andrew edit together this reel of clips from MSNBC footage back when Ce
 A series of short youtube promos Andrew made early on for _What The Flick?!_, an online movie review show Andrew co-created with Cenk Uygur and The Young Turks in 2010, featuring Ben Mankiewicz, Christy Lemire, Alonso Duralde, Matt Atchity, and more...
 
 [_What The Flick!?_](www.youtube.com/whattheflickshow)
-
----
-
-<iframe src="https://player.vimeo.com/video/166052410" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-## _Et Tu Brute?_ -- _What The Flick's?!_ Discussion of _Mad As Hell_
-
-This is definitely "NOT a review" of MAD AS HELL by Andrew's _What The Flick?!_ film critic friends and former co-workers, who also work for the subject of the documentary, and are destroying I mean discussing a movie that was directed by a former director of _What The Flick!?_ itself, the same director who personally asked them to do this video on _Mad As Hell_ as a favor for publicity, the same director who now has learned to NEVER AGAIN ask such favors from film critic friends. Andrew doesn't agree with them but he respects their honestly... But also what choice did they have? Many fun comments from viewers on their [YouTube](https://www.youtube.com/watch?v=gGbVXgu02uY) video as well.
-
----
-
-<iframe src="https://player.vimeo.com/video/166052381" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-## _Spin Cycle_ (2008)
-
-A quirky vignette of two strangers, a Laundromat and the silent battle that ensues over the last remaining washing machine. An independent film made at UW-Madison and co-directed with a fellow student, Michael Anderson.
 
 ---
 
