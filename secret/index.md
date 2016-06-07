@@ -76,7 +76,7 @@ Wrap party and blooper video for _Before I Disappear_. Originally shown at the B
 
 <iframe src="https://player.vimeo.com/video/26180740" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Cenk’s Kick Ass MSNBC Reel (2011)
+## Cenk’s MSNBC Reel (2011)
 
 Cenk had Andrew edit together this reel of clips from MSNBC footage back when Cenk still cared about trying to stay on MSNBC. This has never been released.
 
@@ -110,8 +110,4 @@ The infamous music video for the hit single _Rockstar Retreat_ off the red hot p
 
 ---
 
-### Disclaimers:
-
-#### \* NOT TRUE (Specifically: Christain Bale, Tommy Wiseau, and Andrew's Mom never said any of those things that appear on this website. So Mr. Bale, Mr. Wiseau, and Mom... please be cool.)
-
-#### ** TOTALY TRUE
+#### \* * NOT TRUE (Specifically: Christain Bale, Jesus Christ, and Andrew’s Mom never said any of those things that appear on this website. So Mr. Bale, Mr. Christ, and Mom… please be cool.)
