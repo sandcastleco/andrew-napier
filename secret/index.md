@@ -6,15 +6,15 @@ title: Secret
 # The Cutting Room Floor
 
 
-These films will probably (hopefully) never see the light of day, but since you somehow found this page (damn you), you are lucky enough to be able to view these rare trailers and special features which can only be found on this specific page and NOWHERE else on the interwebs (Andrew desperately hopes). How lucky for you. Enjoy... Or click the back button and forget this page exists.
+These films will probably (hopefully) never see the light of day. But since you found this page (__damn you__), you are able to view these trailers, short films and special features which can only be found on this page and NOWHERE else (Andrew desperately hopes). How lucky for you that the web designers take pleasure in exploiting his embarrassing “lesser work.” Enjoy… Or click the back button and forget this page exists.
 
 <iframe src="https://player.vimeo.com/video/163629656" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Sledge_ (1996)
 
-Trailer for Andrew's first feature film, made in 1996 when he was eight-years-old, and shot entirely in the basement of his childhood home in Mauston, Wisconsin. Notice the tasteful use of every single possible transition available, from "star" to "ripple dissolve," no Final Cut Pro transition went unused! The film itself has been hailed as "the single most influential film of the 90's" by Andrew's Mother*.
+Trailer for Andrew’s first feature film, made in 1996 when he was eight years old, and shot entirely in the basement of his childhood home in Mauston, Wisconsin. Notice the tasteful use of every single possible transition available, from “star” to “ripple” dissolve, no Final Cut Pro transition went unused! The film itself has been hailed as “the single most influential film of the 90’s” by Andrew’s Mother.* (Though she also thought it was too violent.)
 
-**Synopsis:** After taking scientifically altered super steroids, Al Capone escapes from Alcatraz and, wielding a sledge hammer as his only weapon, he goes on a nation wide bank robbing spree wearing a ski mask. _Sledge_ is born and the legendary prohibition agent Eliot Ness must go after him once again. Written, directed, edited, and starring Andrew Napier in the roles of both Al Capone and Eliot Ness. What a pompous little shit.
+__Synopsis:__ After taking scientifically altered super steroids, Al Capone escapes from Alcatraz and, wielding a sledge hammer as his only weapon, goes on a nation wide bank robbing spree wearing a ski mask. _Sledge_ is born and the legendary prohibition agent, Eliot Ness, must go after him once again. Written, directed, edited, and starring Andrew Napier in the roles of both Al Capone and Eliot Ness. What a pompous little shit.
 
 ---
 
@@ -22,7 +22,7 @@ Trailer for Andrew's first feature film, made in 1996 when he was eight-years-ol
 
 ## _Hopeless_ (2010)
 
-This "gorgeous-film-noir-parody-short-film" (according to Andrew) follows a protagonist and fugitive named Andrew (what a crazy coincidence) who sort of kidnaps his ex-girlfriend named Michele (played by an actress named Amanda... seriously, crazy inside baseball coincidence here) before she marries another man. Staring Amanda Fuller, Joe Williamson, Ross Alden, and featuring special guest stars Cenk Uygur and Ana Kaspairan for absolutely no good reason at all! Acclaimed film director Tommy Wiseau* (Director of "The Room") has called this "The best short film ever made in the history of all time and stuff!" (Read that out loud in his accent). However, despite the film's fast pace and quick runtime of under 20 minutes, Andrew's entire family ALL fell asleep within the first 5 minutes and therefore were unable to comment on this stellar work of art.** Heartbreakingly, this masterpiece has so far never seen the light of day and it probably never will, so enjoy the trailer. This riveting film leaves the viewer thinking "You're hopeless Andrew", only to find out that... "My name is not Andrew." Say what!?
+This “film-noir-parody-short-film” follows a fugitive protagonist named Andrew (what a crazy coincidence) who sort of kidnaps his ex-girlfriend Michele before she marries another man. Staring Amanda Fuller, Joe Williamson, Ross Alden, and featuring special guest stars Cenk Uygur and Ana Kasparian for absolutely no good reason at all! Despite the film’s fast pace and quick runtime of under 20 minutes, Andrew’s entire family fell asleep within the first 5 minutes and therefore were unable to comment on this stellar work of art. Heartbreakingly, this masterpiece has so far never seen the light of day and it probably never will, so enjoy the trailer. This riveting film leaves the viewer thinking “You’re hopeless Andrew.”
 
 ---
 
@@ -30,7 +30,7 @@ This "gorgeous-film-noir-parody-short-film" (according to Andrew) follows a prot
 
 ## Andrew's Super Lazy Cop Out "Book Report" For 3rd Grade English Class (1997)
 
-Instead of writing a traditional book report like the rest of his sucker classmates, Andrew somehow convinced his teachers to instead allow him to make a video report. On top of this, Andrew did the laziest possible thing by LITERALLY SIMPLY READING THE BACK COVER DESCRIPTION OF THE BOOK! But due to the editing (at the time considered impressive, but now just awful), silly transitions (once again pulling a _Sledge_ and using almost every single one available, very classy), and mostly because of Andrew's adorable little sister Annie, Andrew got an A+ on this project. Seriously, an A+! That is criminal. But, in Andrew's defense, the book "Jacob Have I Loved" is terrible! Near the end when Andrew says "it's a really good book," he actually meant it's GOD AWFUL AND YOU SHOULD NEVER READ IT! But he was sucking up for a good grade... And it totally worked.
+Instead of writing a traditional book report like the rest of his sucker classmates, Andrew somehow convinced his teachers to allow him to make a video report. On top of this, Andrew did the laziest possible thing by literally reading the back cover description of the book! But due to the editing (at the time considered impressive by a 9-year-old, now with the damn technology any 9-year-old could crap out something better that this), silly transitions (once again pulling a _Sledge_ and using almost every single transition available), and mostly because of Andrew’s adorable little sister Annie, Andrew got an A+ on this project. Seriously, an A+! That is criminal. He should have failed. But in Andrew’s defense, the book “Jacob Have I Loved” is terrible! Near the end when Andrew says “it’s a really good book,” he was just sucking up for a good grade… and it totally worked. It’s an awful book.
 
 ---
 
@@ -38,7 +38,7 @@ Instead of writing a traditional book report like the rest of his sucker classma
 
 ## _Larry’s School Dance_ (2008)
 
-Freshman year at UW-Madison, Andrew had a huge crush on his art teacher, but she didn't like him all that much. In one single night (emphasis on the one single night aspect) he made this short animated film for her. She hated it. The next day Andrew dropped out of college and the rest is history... But from time to time Andrew still thinks about that art teacher... Bitch. Also, If you are wondering why the puking sound effect is so incredibly realistic, it's because Andrew is a method voice actor: He literally ate a bunch of Thanksgiving dinner leftovers, then recorded himself puking it all up in the toilet. No joke. One must suffer for their art... even shitty art like this. Also one must be thankful, because of the thanksgiving food, obviously. LSD is written, directed, & voiced by multihyphenate asshat Andrew Napier. Animation by Mikey B. Music by [Foster Douglas](http://www.foster-douglas.com). Special thanks to the Peter... you know who you are.
+Freshman year at UW-Madison Andrew had a crush on his art teacher, but she didn’t like him all that much… (and by that we mean not at all). In one single night (emphasis on the one night) he made this short animated film for her as his final project. She hated it. The next day Andrew dropped out of college and the rest is history. Also, If you are wondering why the puking sound effect is so realistic, it’s because Andrew is a method voice actor. One must suffer for their art… even shitty art like this. LSD is written, directed, & voiced by multi-hyphenate asshat Andrew Napier. Animation by Mikey B. Music by [Foster Douglas](http://www.foster-douglas.com). Special thanks to Peter… you know who you are.
 
 ---
 
@@ -46,7 +46,7 @@ Freshman year at UW-Madison, Andrew had a huge crush on his art teacher, but she
 
 ## _Spin Cycle_ (2008)
 
-A quirky vignette of two strangers, a Laundromat and the silent battle that ensues over the last remaining washing machine. An independent film made at UW-Madison and co-directed with a fellow student, Michael Anderson.
+A quirky vignette of two strangers, a Laundromat and the silent battle that ensues over the last remaining washing machine. A short film co-directed with a Michael Anderson, made independently while the two attended UW-Madison.
 
 ---
 
@@ -54,7 +54,7 @@ A quirky vignette of two strangers, a Laundromat and the silent battle that ensu
 
 ## _American Entrepreneurs_ (2008)
 
-A short film that documents the 2008 trip of the McKelvey Foundation's Entrepreneurial Scholarships winners. Andy McKelvey (co-founder of Monster.com, billionaire and philanthropist) and his daughter Christine (president of the McKelvey Foundation) initially selected Andrew as one of their scholarship winners in 2007, providing a full ride scholarship for his education at UW-Madison. (They brought him back to film the 2008 trip to make this video about their organization.) One of the stipulations of the scholarship was that the scholar was not allowed to miss a single semester of college. Andrew faced a dilemma when he was fortunate to get the opportunity to work on the set of Quentin Tarantino's _Inglourious Basterds_ later that year in 2008. But that meant missing well over a semester at UW-Madison and losing the scholarship. Andrew discussed this with Andy during the making of this video at the 2008 retreat, and Andy was kind enough to make the exception to allow Andrew to go back to school with the scholarship if he wanted after the experience working for Tarantino. But Andy also said that after Andrew left school and had that experience, he guaranteed that Andrew would not go back to school, and that he would move to Los Angeles pursue filmmaking. Andy was 100% right. A couple months later, Andy McKelvey died in New York City at age 74 on November 27, 2008 of pancreatic cancer. Both Andy and Christine are important influences on Andrew's life, and he is deeply and forever grateful to them.
+A short film that documents the 2008 trip of the McKelvey Foundation’s Entrepreneurial Scholarships winners. Andy McKelvey (co-founder of [Monster.com](http://www.monster.com), genius, billionaire, playboy, philanthropist - that’s an Avengers reference for those of you who didn’t get it) and his daughter Christine (president of the McKelvey Foundation) initially selected Andrew as one of their scholarship winners in 2007, providing a full ride scholarship for his education at UW-Madison. They brought him back to film the 2008 trip and make this video about their organization. One of the stipulations of the scholarship was that the scholar was not allowed to miss a semester of college. Andrew faced a dilemma when he was fortunate to get the opportunity to work on the set of Quentin Tarantino’s _Inglourious Bastards_ later that year in 2008. But that meant missing well over a semester at UW-Madison and losing the scholarship. Andrew discussed this with Andy during the making of this video at the 2008 retreat, and Andy was kind enough to make the exception to allow Andrew to go back to school with the scholarship if he wanted after the experience working for Tarantino. But Andy said that after Andrew left school and had that experience, he guaranteed that Andrew would not go back to school, and that he would instead move to Los Angeles to pursue filmmaking. Andy was 100% right. A couple months later, Andy McKelvey died in New York City at the age 74 on November 27, 2008 of pancreatic cancer. Both Andy and Christine are important influences on Andrew’s life, and he is deeply and forever grateful to them.
 
 ---
 
@@ -62,7 +62,7 @@ A short film that documents the 2008 trip of the McKelvey Foundation's Entrepren
 
 ## From _Curfew_ to _Before I Disappear_ (2014)
 
-The making of _Before I Disappear_, a feature film adapted from the Academy Award®-winning short film _Curfew_. Both films were written, directed by, and star Shawn Christensen. Andrew Napier was a producer on the short and an editor on the feature, and directed & edited this short "making of" documentary that was originally intended to be used as a Kickstarter fundraising video which was later abandoned (as the crowdfunding was eventually deemed not necessary) and this featurette was therefore sadly never released. Guys, if you see this, __please don't sue Andrew__ (he wasn't exactly paid to make this).
+This is sort of a “making of” for _Before I Disappear_, a feature film adapted from the Academy Award®-winning short film _Curfew_. Both films were written, directed by, and star Shawn Christensen. Andrew was a producer on the short and an editor on the feature, and directed & edited this short documentary that was originally intended to be used as a Kickstarter fundraising video which was later abandoned (as the crowdfunding was eventually deemed not necessary) and this featurette was therefore never released. Guys, if you happen to see this, __please don’t sue Andrew__.
 
 ---
 
@@ -70,7 +70,7 @@ The making of _Before I Disappear_, a feature film adapted from the Academy Awar
 
 ## _Before I Disappear_ -- Wrap Party & Bloopers (2014)
 
-Wrap party and blooper video for _Before I Disappear_. Originally shown at the BID wrap party but never publicly released. Again, guys, don't sue Andrew. He wasn't paid for this either. And he's broke anyway. It's all in good fun and made with love... and other gross stuff.
+Originally shown at the _Before I Disappear_ wrap party, but never publicly released. Again guys, don’t sue Andrew. It’s all good fun.
 
 ---
 
@@ -96,9 +96,9 @@ Cenk had Andrew edit together this reel of clips from MSNBC footage back when Ce
 
 ## Early _What The Flick?!_ Promos
 
-A series of short youtube promos Andrew made early on for _What The Flick?!_, an online movie review show Andrew co-created with Cenk Uygur and The Young Turks in 2010, featuring Ben Mankiewicz, Christy Lemire, Alonso Duralde, Matt Atchity, and more...
+A series of short youtube promos Andrew made early on for _What The Flick?!_, an online movie review show Andrew co-created with Cenk Uygur and The Young Turks in 2010, featuring Ben Mankiewicz, Christy Lemire, Alonso Duralde, Matt Atchity, and more…
 
-[_What The Flick!?_](www.youtube.com/whattheflickshow)
+[_What The Flick!?_ YouTube Page](www.youtube.com/whattheflickshow)
 
 ---
 
@@ -106,8 +106,16 @@ A series of short youtube promos Andrew made early on for _What The Flick?!_, an
 
 ## _Rockstar Retreat_ -- Music Video (2009)
 
-The infamous music video for the hit single _Rockstar Retreat_ off the red hot platinum album "Buttsteak Sandwich" by none other than... yes, you guessed it! The legendary music duo DOUBLES AS A FRISBEE! It's been called "The worst and most horrifyingly bad music video ever made in both the history of music videos and the history life on this planet, oh why God, why does this exist!? You better go ahead and pull another Noah's-Ark-flood-type-apocalypse-thing because we need to start ALL over!" by Jesus Christ himself.** Proudly drunkenly directed by Andrew Napier while attending UW-Madison in that one year before he dropped out to go pursue the whole "film thing."
+The infamous music video for the hit single _Rockstar Retreat_ off the red hot platinum album “Buttsteak Sandwich” by none other than… yes, you guessed it… The legendary music duo DOUBLES AS A FRISBEE! Jesus Christ himself watched it and said “This is the worst and most horrifyingly bad music video ever made in both the history of music videos and of life on this planet. Oh why God, why does this exist!? You better go ahead and pull another Noah’s-Ark-flood-type-apocalypse-thing God, because we need to start ALL over!”* Proudly drunkenly directed by <a class="alt-link" href="https://vimeo.com/2656743">Andrew Napier</a> while attending UW-Madison in that one year before he dropped out to go pursue the whole “film thing.”
 
 ---
 
-#### \* * NOT TRUE (Specifically: Christain Bale, Jesus Christ, and Andrew’s Mom never said any of those things that appear on this website. So Mr. Bale, Mr. Christ, and Mom… please be cool.)
+<iframe src="https://player.vimeo.com/video/166193285" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## _RIP Andrew_ -- Music Video (2009)
+
+Freshman year of collage in 2008, <a class="alt-link" href="https://vimeo.com/166193325/50f459cb2a">Andrew</a> was bored, and it killed him.
+
+---
+
+#### \* NOT TRUE (Specifically: Christain Bale, Jesus Christ, and Andrew’s Mom never said any of the things that appear on this website. So Mr. Bale, Mr. Christ, and Mom… please be cool.)
