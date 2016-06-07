@@ -110,32 +110,6 @@ The infamous music video for the hit single _Rockstar Retreat_ off the red hot p
 
 ---
 
-# Coming Soon:
-
-## [_Mary & Bill_](www.maryandbillfilm.com) (Full Film & Special Features)
-More info: [https://www.facebook.com/maryandbill/](https://www.facebook.com/maryandbill/)
-
-## [_Keeping The Spirit_](www.pantherspiritmound.org) (Full Film & Trailer)
-More info: [http://www.wisconsinmounds.com/PantherMauston.html](http://www.wisconsinmounds.com/PantherMauston.html)
-
----
-
-# Fun Facts For The Whole Family:
-
-- Andrew's parents fell asleep during _Bounce: How the Ball Taught the world to Play_ and he's never let them forget it.**
-
-- Andrew has six fingers on one of his hands just like that bad guy from _The Princess Bride_ movie.*
-
-- At age 8, Andrew taught himself how to edit video on his home computer using Final Cut Pro.**
-
-- Andrew Napier's Dad came up with the original ideas for both _Sledge_ and <a class="alt-link" href="https://vimeo.com/2656743">_Marvin Milktoast_</a>.
-
-- At 14 months old, Andrew holds the record as the youngest human being to ever venture into outer space and crawl on the Moon's surface where he took his very first steps. He is the one and only lunar baby.*
-
-- Andrew loves his parents and entire family very much with all his heart.**
-
----
-
 ### Disclaimers:
 
 #### \* NOT TRUE (Specifically: Christain Bale, Tommy Wiseau, and Andrew's Mom never said any of those things that appear on this website. So Mr. Bale, Mr. Wiseau, and Mom... please be cool.)
