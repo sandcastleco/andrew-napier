@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.1
+
+* Minor edits to secret page
+* Minor edits to films page information
+* Change url of secret page to "/cutting-room-floor"
+
 ## v1.2.0
 
 * Add the ability to edit the quotes list from an admin page
