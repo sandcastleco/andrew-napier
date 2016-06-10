@@ -114,7 +114,7 @@ The infamous music video for the hit single _Rockstar Retreat_ off the red hot p
 
 ## _RIP Andrew_ -- Music Video (2009)
 
-Freshman year of collage in 2008, <a class="alt-link" href="https://player.vimeo.com/video/2656743">Andrew</a> was bored, and it killed him.
+Freshman year of collage in 2008, <a class="alt-link" href="https://vimeo.com/2656743/b89e90e978">Andrew</a> was bored, and it killed him.
 
 ---
 
