@@ -1,7 +1,6 @@
 ---
 layout: center
 title: Credits
-no-social: true
 ---
 
 # Credits
@@ -15,6 +14,8 @@ Body text is typeset in <a href="https://typekit.com/fonts/ff-enzo-web" target="
 Design by <a href="http://twitter.com/_fosterdouglas" target="_blank">Foster Douglas</a>. Development by <a href="http://twitter.com/kev_mcg" target="_blank">Kevin McGillivray</a>.
 
 Special thanks to <a href="https://amandatannen.carbonmade.com" target="_blank">Amanda Tannen</a>.
+
+<a class="btn" href="/admin">Admin login</a>
 
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 220" style="max-width: 70px;">
   <a xlink:href="http://sandcastle.co" target="_blank">
