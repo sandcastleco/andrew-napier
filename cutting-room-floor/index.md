@@ -6,7 +6,7 @@ title: Cutting Room Floor
 # The Cutting Room Floor
 
 
-These films will probably (hopefully) never see the light of day. But since you found this page (__damn you__), you are able to view these trailers, short films and special features which can only be found on this page and NOWHERE else (Andrew desperately hopes). How lucky for you that the web designers take pleasure in exploiting his embarrassing “lesser work.” Enjoy… Or click the back button and forget this page exists.
+These films will probably (hopefully) never see the light of day. But since you found this page (damn you), you are able to view these trailers, short films and special features which can only be found on this page and NOWHERE else (Andrew desperately hopes). How lucky for you that the web designers take pleasure in exploiting his embarrassing “lesser work.” Enjoy… Or click the back button and forget this page exists.
 
 <iframe src="https://player.vimeo.com/video/163629656" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ A series of short youtube promos Andrew made early on for _What The Flick?!_, an
 
 ## _Rockstar Retreat_ -- Music Video (2009)
 
-The infamous music video for the hit single _Rockstar Retreat_ off the red hot platinum album “Buttsteak Sandwich” by none other than… yes, you guessed it… The legendary music duo DOUBLES AS A FRISBEE! Jesus Christ himself watched it and said “This is the worst and most horrifyingly bad music video ever made in both the history of music videos and of life on this planet. Oh why God, why does this exist!? You better go ahead and pull another Noah’s-Ark-flood-type-apocalypse-thing God, because we need to start ALL over!”* Proudly drunkenly directed by <a class="alt-link" href="https://vimeo.com/2656743">Andrew Napier</a> while attending UW-Madison in that one year before he dropped out to go pursue the whole “film thing.”
+The infamous music video for the hit single _Rockstar Retreat_ off the red hot platinum album “Buttsteak Sandwich” by none other than… yes, you guessed it… The legendary music duo DOUBLES AS A FRISBEE! Jesus Christ himself watched it and said “This is the worst and most horrifyingly bad music video ever made in both the history of music videos and of life on this planet. Oh why God, why does this exist!? You better go ahead and pull another Noah’s-Ark-flood-type-apocalypse-thing God, because we need to start ALL over!”* Proudly drunkenly directed by Andrew Napier while attending UW-Madison in that one year before he dropped out to go pursue the whole “film thing.”
 
 ---
 
@@ -114,7 +114,7 @@ The infamous music video for the hit single _Rockstar Retreat_ off the red hot p
 
 ## _RIP Andrew_ -- Music Video (2009)
 
-Freshman year of collage in 2008, <a class="alt-link" href="https://vimeo.com/166193325/50f459cb2a">Andrew</a> was bored, and it killed him.
+Freshman year of collage in 2008, <a class="alt-link" href="https://vimeo.com/2656743/b89e90e978">Andrew</a> was bored, and it killed him.
 
 ---
 
