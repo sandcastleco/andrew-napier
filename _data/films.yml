@@ -31,28 +31,6 @@
     - name: Film
       link: https://itunes.apple.com/us/movie/the-past-is-a-grotesque-animal/id881654852
 
-- title: "Mary and Bill"
-  image: mary-and-bill.jpg
-  role: Director, Writer, Producer, Editor, Cinematographer
-  category: documentary
-  imdb: http://www.imdb.com/title/tt1505354/
-  links:
-    - name: Trailer
-      link: https://vimeo.com/3094607
-    - name: Website
-      link: http://www.maryandbillfilm.com
-
-- title: "Grandma's Not a Toaster!"
-  role: Director, Editor
-  image: grandmas-not-a-toaster.jpg
-  category: narrative
-  imdb: http://www.imdb.com/title/tt2596102/
-  links:
-    - name: Trailer
-      link: https://vimeo.com/61916496
-    - name: Film
-      link: https://tribecafilm.com/stories/short-film-grandmas-not-a-toaster-tff-2013
-
 - title: "Curfew"
   role: Producer, Assistant Director
   image: curfew.jpg
@@ -74,6 +52,72 @@
       link: https://www.youtube.com/watch?v=CXpMydcWdjk
     - name: Film
       link: https://itunes.apple.com/us/movie/before-i-disappear/id935216832
+
+- title: "Grandma's Not a Toaster!"
+  role: Director, Editor
+  image: grandmas-not-a-toaster.jpg
+  category: narrative
+  imdb: http://www.imdb.com/title/tt2596102/
+  links:
+    - name: Trailer
+      link: https://vimeo.com/61916496
+    - name: Film
+      link: https://tribecafilm.com/stories/short-film-grandmas-not-a-toaster-tff-2013
+
+- title: "Mary and Bill"
+  image: mary-and-bill.jpg
+  role: Director, Writer, Producer, Editor, Cinematographer
+  category: documentary
+  imdb: http://www.imdb.com/title/tt1505354/
+  links:
+    - name: Trailer
+      link: https://vimeo.com/3094607
+    - name: Watch for Free
+      link: https://vimeo.com/169603130
+
+- title: "Primaries"
+  image: primaries.jpg
+  role: Editor (Ep. 2 - The Country Got it Wrong, Ep. 4 - This is a Nightmare)
+  category: documentary
+  imdb: http://www.imdb.com/title/tt5910108/
+  links:
+    - name: iTunes
+      link: https://itunes.apple.com/us/tv-season/primaries-season-1/id1153751153
+    - name: Trailer
+      link: https://www.youtube.com/watch?v=LatwLj0lTQQ
+
+- title: "Lust for Love"
+  image: lust-for-love.jpg
+  role: Co-producer, Additional Editor
+  category: comedy
+  imdb: http://www.imdb.com/title/tt2106529/
+  links:
+    - name: Trailer
+      link: https://www.youtube.com/watch?v=w_fy3efQCaE
+    - name: Film
+      link: https://itunes.apple.com/us/movie/lust-for-love/id799019168
+
+- title: "What the Flick!?"
+  image: what-the-flick.jpg
+  role: Co-creator, Director, Producer, Editor (2010 to 2012)
+  category: news
+  imdb: http://www.imdb.com/title/tt1826569/
+  links:
+    - name: YouTube
+      link: https://www.youtube.com/user/whattheflickshow
+    - name: Website
+      link: https://www.facebook.com/whattheflick/
+
+- title: "The Young Turks"
+  image: tyt.jpg
+  role: Director, Producer, Editor (2009 to 2012)
+  category: news
+  imdb: http://www.imdb.com/title/tt1714810/
+  links:
+    - name: YouTube
+      link: https://www.youtube.com/user/TheYoungTurks
+    - name: Website
+      link: https://tytnetwork.com
 
 - title: "The Culture High"
   role: Executive Producer
