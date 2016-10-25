@@ -42,6 +42,10 @@ a:hover {
 }
 .alt-link {
 	border-bottom: 0;
+	color: $grey;
+}
+.alt-link:hover {
+	color: $light-grey;
 }
 ol li,
 ul li {
