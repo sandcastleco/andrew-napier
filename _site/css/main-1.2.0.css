@@ -107,7 +107,11 @@ a:hover {
   transition: .3s all; }
 
 .alt-link {
-  border-bottom: 0; }
+  border-bottom: 0;
+  color: #777777; }
+
+.alt-link:hover {
+  color: #aaaaaa; }
 
 ol li,
 ul li {

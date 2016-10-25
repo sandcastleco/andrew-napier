@@ -1,5 +1,20 @@
 # Changelog
 
+##v1.3.0
+
+* Added alt-link hover
+* Updated films
+* Updated site title
+* Updated about page
+* Text changes / mods to cutting room floor
+* Added new film posters
+
+##v1.2.2
+
+* Text changes
+* Link changes
+* Updated instagram handle
+
 ## v1.2.1
 
 * Minor edits to secret page
