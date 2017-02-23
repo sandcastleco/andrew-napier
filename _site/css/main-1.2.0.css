@@ -38,6 +38,12 @@ img {
   top: 50%;
   transform: translateY(-50%); }
 
+.mt2 {
+  margin-top: 2rem; }
+
+.mb2 {
+  margin-bottom: 2rem; }
+
 .form-group {
   margin-bottom: 30px; }
 
@@ -61,8 +67,7 @@ img {
   margin-left: auto; }
 
 .main {
-  padding-top: 80px;
-  padding-bottom: 20px; }
+  padding-top: 80px; }
 
 p {
   margin-top: 0;
@@ -92,6 +97,7 @@ h3 {
 
 h4 {
   font-size: 0.6rem;
+  margin-bottom: 1.5rem;
   color: #aaaaaa;
   text-transform: none; }
 
@@ -353,11 +359,13 @@ footer {
   left: 0;
   overflow: auto;
   width: 100%;
-  padding: 1rem; }
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem; }
 
 @media (min-width: 768px) {
   footer {
-    min-height: 120px; } }
+    min-height: 80px; } }
 .col {
   display: inline-block;
   vertical-align: bottom;
