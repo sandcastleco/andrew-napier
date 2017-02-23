@@ -9,4 +9,6 @@ Andrew produced and edited the acclaimed documentaries *The Past is a Grotesque 
 
 Andrew has been making films since he was eight years old — from fictional action films about <a class="alt-link" href="/cutting-room-floor">Al Capone</a>, to documentaries about Native American burial effigy mounds, telling stories has always been his passion. After moving to LA, Andrew was first hired by the online news show *The Young Turks* where, as one of their earliest producers and directors, he was essential in helping build up the company into a massive success on YouTube. During his tenure at *The Young Turks*, Andrew independently followed and filmed Cenk Uygur (host and founder) as he transgressed from YouTube sensation to becoming a national television host on MSNBC and Current TV. This footage later became the film *Mad as Hell* which Andrew directed, produced and edited after he left the company. *Mad as Hell* was released by Oscilloscope Laboratories (film distributor founded by Beastie Boys member Adam Yauch) both theatrically and on all digital and VOD platforms Feb 6th, 2015.
 
+Andrew also enjoys tennis, painting, welding, not using Snapchat, and saving the world from Artificial Intelligence on a daily basis.
+
 <a href="/contact" class="btn btn-space">Contact</a>
