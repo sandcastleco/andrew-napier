@@ -17,7 +17,7 @@ __Synopsis:__ After taking scientifically enhanced “super steroids”, Al Capo
 
 ---
 
-<iframe src="https://player.vimeo.com/video/21674385" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/21674385" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Hopeless_ (2010)
 
@@ -41,7 +41,7 @@ Freshman year at UW-Madison Andrew had a crush on his art teacher, but she didn�
 
 ---
 
-<iframe src="https://player.vimeo.com/video/166052381" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/166052381" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Spin Cycle_ (2008)
 
@@ -57,7 +57,7 @@ A short film that documents the 2008 trip of the McKelvey Foundation’s Entrepr
 
 ---
 
-<iframe src="https://player.vimeo.com/video/72712120" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/72712120" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## From _Curfew_ to _Before I Disappear_ (2014)
 
@@ -65,7 +65,7 @@ This is sort of a “making of” for _Before I Disappear_, a feature film adapt
 
 ---
 
-<iframe src="https://player.vimeo.com/video/70972398" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/70972398" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Before I Disappear_ -- Wrap Party & Bloopers (2014)
 
@@ -81,7 +81,7 @@ Cenk had Andrew edit together this reel of clips from MSNBC footage back when Ce
 
 ---
 
-<iframe src="https://player.vimeo.com/video/30162082" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/30162082" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Early _What The Flick?!_ Promos
 
@@ -89,7 +89,7 @@ A series of short promos Andrew made early on for <a href="http://www.youtube.co
 
 ---
 
-<iframe src="https://player.vimeo.com/video/6155685" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/6155685" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Rockstar Retreat_ -- Music Video (2009)
 
