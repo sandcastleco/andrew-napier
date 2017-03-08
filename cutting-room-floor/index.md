@@ -7,7 +7,7 @@ title: Cutting Room Floor
 
 These films will probably (hopefully) never see the light of day. But since you found this page (damn you), you are able to view these trailers, short films and special features which can only be found on this page and NOWHERE else (Andrew desperately hopes). How lucky for you that the web designers take pleasure in exploiting his embarrassing “lesser work.” Enjoy… Or click the back button and forget this page exists.
 
-<iframe src="https://player.vimeo.com/video/163629656" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/163629656" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Sledge_ (1996)
 
@@ -17,7 +17,7 @@ __Synopsis:__ After taking scientifically enhanced “super steroids”, Al Capo
 
 ---
 
-<iframe src="https://player.vimeo.com/video/21674385" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/21674385" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Hopeless_ (2010)
 
@@ -25,7 +25,7 @@ This “film-noir-parody-short-film” follows a fugitive protagonist named Andr
 
 ---
 
-<iframe src="https://player.vimeo.com/video/163629754" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/163629754" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Andrew's Super Lazy Cop Out "Book Report" For 3rd Grade English Class (1997)
 
@@ -33,7 +33,7 @@ In middle school, to get out of having to write traditional book reports like th
 
 ---
 
-<iframe src="https://player.vimeo.com/video/2655971" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/2655971" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Larry’s School Dance_ (2008)
 
@@ -41,15 +41,15 @@ Freshman year at UW-Madison Andrew had a crush on his art teacher, but she didn�
 
 ---
 
-<iframe src="https://player.vimeo.com/video/166052381" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/166052381" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Spin Cycle_ (2008)
 
-A quirky vignette of two strangers, a Laundromat and the silent battle that ensues over the last remaining washing machine. A short film Andrew co-directed with a Michael Anderson, made independently while the two attended UW-Madison.
+A quirky vignette of two strangers, a Laundromat and the silent battle that ensues over the last remaining washing machine. A short film Andrew co-directed with Michael Anderson, made independently while the two attended UW-Madison.
 
 ---
 
-<iframe src="https://player.vimeo.com/video/2657364" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/2657364" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _American Entrepreneurs_ (2008)
 
@@ -57,7 +57,7 @@ A short film that documents the 2008 trip of the McKelvey Foundation’s Entrepr
 
 ---
 
-<iframe src="https://player.vimeo.com/video/72712120" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/72712120" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## From _Curfew_ to _Before I Disappear_ (2014)
 
@@ -65,7 +65,7 @@ This is sort of a “making of” for _Before I Disappear_, a feature film adapt
 
 ---
 
-<iframe src="https://player.vimeo.com/video/70972398" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/70972398" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Before I Disappear_ -- Wrap Party & Bloopers (2014)
 
@@ -73,7 +73,7 @@ Originally shown at the _Before I Disappear_ wrap party, but never publicly rele
 
 ---
 
-<iframe src="https://player.vimeo.com/video/26180740" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/26180740" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Cenk’s MSNBC Reel (2011)
 
@@ -81,17 +81,15 @@ Cenk had Andrew edit together this reel of clips from MSNBC footage back when Ce
 
 ---
 
-<iframe src="https://player.vimeo.com/video/30162082" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/30162082" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Early _What The Flick?!_ Promos
 
-A series of short promos Andrew made early on for _What The Flick?!_, an online movie review show Andrew co-created with Cenk Uygur and The Young Turks in 2010, featuring Ben Mankiewicz, Christy Lemire, Alonso Duralde, Matt Atchity, and more…
-
-<a href="www.youtube.com/whattheflickshow" target="_blank"><em>What The Flick!?</em></a>
+A series of short promos Andrew made early on for <a href="http://www.youtube.com/whattheflickshow" target="_blank"><em>What The Flick?!</em></a>, an online movie review show Andrew co-created with Cenk Uygur and The Young Turks in 2010, featuring Ben Mankiewicz, Christy Lemire, Alonso Duralde, Matt Atchity, and more...
 
 ---
 
-<iframe src="https://player.vimeo.com/video/6155685" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/6155685" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _Rockstar Retreat_ -- Music Video (2009)
 
@@ -99,11 +97,11 @@ The infamous music video for the hit single _Rockstar Retreat_ off the red hot p
 
 ---
 
-<iframe src="https://player.vimeo.com/video/166193285" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/166193285" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## _RIP Andrew_ -- Music Video (2009)
 
- <a class="alt-link" href="https://vimeo.com/2656743/b89e90e978">Freshman year of collage in 2008, Andrew was bored, and it killed him.</a>
+<a class="alt-link" href="https://vimeo.com/2656743/b89e90e978">Freshman year of college in 2008, Andrew was bored, and it killed him.</a>
 
 ---
 

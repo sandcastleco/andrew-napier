@@ -38,6 +38,9 @@ img {
   top: 50%;
   transform: translateY(-50%); }
 
+.mt0 {
+  margin-top: 0 !important; }
+
 .mt2 {
   margin-top: 2rem; }
 
@@ -153,6 +156,8 @@ hr {
 
 .btn {
   display: inline-block;
+  margin-bottom: 0;
+  margin-top: 1rem;
   border: 0;
   font-size: 1rem;
   padding: 10px;
@@ -160,7 +165,6 @@ hr {
   color: #aaaaaa;
   background-color: transparent;
   border-radius: 5px;
-  margin-bottom: 1rem;
   transition: .3s all; }
 
 .btn:hover {

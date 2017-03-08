@@ -11,4 +11,4 @@ Andrew has been making films since he was eight years old — from fictional act
 
 Andrew also enjoys tennis, painting, welding, not using Snapchat, and saving the world from Artificial Intelligence on a daily basis.
 
-<a href="/contact" class="btn btn-space">Contact</a>
+<a href="/contact" class="btn">Contact</a>
