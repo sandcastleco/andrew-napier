@@ -93,7 +93,7 @@ A series of short promos Andrew made early on for <a href="http://www.youtube.co
 
 ## _Rockstar Retreat_ -- Music Video (2009)
 
-The infamous music video for the hit single _Rockstar Retreat_ off the red hot platinum album “Buttsteak Sandwich” by none other than… yes, you guessed it… The legendary music duo DOUBLES AS A FRISBEE! Jesus Christ himself watched it and said “This is the worst and most horrifyingly bad music video ever made in both the history of music videos and of life on this planet. Oh dear heavenly Father, why does this exist!?”* Proudly drunkenly directed by <a class ="alt-link" target="_blank" href="https://vimeo.com/2656743/b89e90e978">Andrew while attending UW-Madison</a> in that one year before he dropped out to go pursue the whole “film thing.”
+The infamous music video for the hit single _Rockstar Retreat_ off the red hot platinum album <a class="alt-link" href="/art-sucks">"Buttsteak Sandwich"</a> by none other than… yes, you guessed it… The legendary music duo DOUBLES AS A FRISBEE! Jesus Christ himself watched it and said “This is the worst and most horrifyingly bad music video ever made in both the history of music videos and of life on this planet. Oh dear heavenly Father, why does this exist!?”* Proudly drunkenly directed by <a class ="alt-link" target="_blank" href="https://vimeo.com/2656743/b89e90e978">Andrew while attending UW-Madison</a> in that one year before he dropped out to go pursue the whole “film thing.”
 
 ---
 
