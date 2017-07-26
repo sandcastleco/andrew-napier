@@ -1,0 +1,17 @@
+---
+layout: default
+title: Art Sucks
+---
+
+<div class="container mb2">
+  <div class="main">
+    <a class="header-btn" href="/cutting-room-floor"><svg viewBox="335, 241, 150, 150" width="30" height="30"><path fill="#e7e7e7" d="M464.06,316.18a5.51,5.51,0,0,1-5.36,5.36H399.78v32.14a5.29,5.29,0,0,1-5.36,5.36,6.17,6.17,0,0,1-4-1.67L337,304a5.67,5.67,0,0,1,0-7.7l53.57-53.57a5.59,5.59,0,0,1,3.85-1.51,5.51,5.51,0,0,1,5.36,5.36v32.14H458.7a5.51,5.51,0,0,1,5.36,5.36v32.14Z"/></svg></a>
+
+    <img style="margin-bottom: 2rem;" src="/img/art-sucks.gif">
+    <img style="margin-bottom: 2rem;" src="/img/art-sucks.gif">
+	<img style="margin-bottom: 2rem;" src="/img/art-sucks.gif">
+	<img style="margin-bottom: 2rem;" src="/img/art-sucks.gif">
+	<img style="margin-bottom: 2rem;" src="/img/art-sucks.gif">
+
+  </div>
+</div>

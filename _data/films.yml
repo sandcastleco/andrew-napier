@@ -9,50 +9,6 @@
     - name: Film
       link: https://itunes.apple.com/us/movie/mad-as-hell/id959174781
 
-- title: "Bounce: How the Ball Taught the World to&nbsp;Play"
-  role: Producer, Editor
-  image: bounce.jpg
-  category: documentary
-  imdb: http://www.imdb.com/title/tt2880596/
-  links:
-    - name: Trailer
-      link: https://vimeo.com/140096570
-    - name: Film
-      link: https://itunes.apple.com/us/movie/bounce/id1072557885
-
-- title: "The Past is a Grotesque Animal"
-  role: Producer, Editor
-  image: the-past-is-a-grotesque-animal.jpg
-  category: documentary
-  imdb: http://www.imdb.com/title/tt3072636/
-  links:
-    - name: Trailer
-      link: http://trailers.apple.com/trailers/oscilloscope/thepastisagrotesqueanimal/
-    - name: Film
-      link: https://itunes.apple.com/us/movie/the-past-is-a-grotesque-animal/id881654852
-
-- title: "Curfew"
-  role: Producer, Assistant Director
-  image: curfew.jpg
-  category: narrative
-  imdb: http://www.imdb.com/title/tt2088735/
-  links:
-    - name: Trailer
-      link: https://www.youtube.com/watch?v=XLAVg17luqc
-    - name: Film
-      link: https://itunes.apple.com/us/movie/curfew/id600675816
-
-- title: "Before I Disappear"
-  role: Editor
-  image: before-i-disappear.jpg
-  category: narrative
-  imdb: http://www.imdb.com/title/tt3060492/
-  links:
-    - name: Trailer
-      link: https://www.youtube.com/watch?v=CXpMydcWdjk
-    - name: Film
-      link: https://itunes.apple.com/us/movie/before-i-disappear/id935216832
-
 - title: "Grandma's Not a Toaster!"
   role: Director, Editor
   image: grandmas-not-a-toaster.jpg
@@ -75,6 +31,72 @@
     - name: Watch for Free
       link: https://vimeo.com/169603130
 
+- title: "Curfew"
+  role: Producer, Assistant Director
+  image: curfew.jpg
+  category: narrative
+  imdb: http://www.imdb.com/title/tt2088735/
+  links:
+    - name: Trailer
+      link: https://www.youtube.com/watch?v=XLAVg17luqc
+    - name: Film
+      link: https://itunes.apple.com/us/movie/curfew/id600675816	    
+
+- title: "Bounce: How the Ball Taught the World to&nbsp;Play"
+  role: Producer, Editor
+  image: bounce.jpg
+  category: documentary
+  imdb: http://www.imdb.com/title/tt2880596/
+  links:
+    - name: Trailer
+      link: https://vimeo.com/140096570
+    - name: Film
+      link: https://itunes.apple.com/us/movie/bounce/id1072557885
+
+- title: "The Past is a Grotesque Animal"
+  role: Producer, Editor
+  image: the-past-is-a-grotesque-animal.jpg
+  category: documentary
+  imdb: http://www.imdb.com/title/tt3072636/
+  links:
+    - name: Trailer
+      link: http://trailers.apple.com/trailers/oscilloscope/thepastisagrotesqueanimal/
+    - name: Film
+      link: https://itunes.apple.com/us/movie/the-past-is-a-grotesque-animal/id881654852
+
+- title: "Before I Disappear"
+  role: Editor
+  image: before-i-disappear.jpg
+  category: narrative
+  imdb: http://www.imdb.com/title/tt3060492/
+  links:
+    - name: Trailer
+      link: https://www.youtube.com/watch?v=CXpMydcWdjk
+    - name: Film
+      link: https://itunes.apple.com/us/movie/before-i-disappear/id935216832
+
+- title: "What the Flick!?"
+  image: what-the-flick.jpg
+  role: Co-creator, Director, Producer, Editor (2010 to 2012)
+  category: news
+  imdb: http://www.imdb.com/title/tt1826569/
+  links:
+    - name: YouTube
+      link: https://www.youtube.com/user/whattheflickshow
+    - name: Website
+      link: https://www.facebook.com/whattheflick/
+  
+- title: "The Young Turks"
+  image: tyt.jpg
+  role: Director, Producer, Editor (2009 to 2012)
+  category: news
+  imdb: http://www.imdb.com/title/tt1714810/
+  links:
+    - name: YouTube
+      link: https://www.youtube.com/user/TheYoungTurks
+    - name: Website
+      link: https://tytnetwork.com	  	  
+
 - title: "Primaries"
   image: primaries.jpg
   role: Editor (Ep. 2 - The Country Got it Wrong, Ep. 4 - This is a Nightmare)
@@ -85,6 +107,15 @@
       link: https://itunes.apple.com/us/tv-season/primaries-season-1/id1153751153
     - name: Trailer
       link: https://www.youtube.com/watch?v=LatwLj0lTQQ
+
+- title: "Sidney Hall"
+  image: sydney.jpg
+  role: Associate Producer, Additional Editor
+  category: comedy
+  imdb: http://www.imdb.com/title/tt2106529/
+  links:
+    - name: IMDB
+      link: http://www.imdb.com/title/tt1291566/
 
 - title: "Lust for Love"
   image: lust-for-love.jpg
@@ -97,28 +128,6 @@
     - name: Film
       link: https://itunes.apple.com/us/movie/lust-for-love/id799019168
 
-- title: "What the Flick!?"
-  image: what-the-flick.jpg
-  role: Co-creator, Director, Producer, Editor (2010 to 2012)
-  category: news
-  imdb: http://www.imdb.com/title/tt1826569/
-  links:
-    - name: YouTube
-      link: https://www.youtube.com/user/whattheflickshow
-    - name: Website
-      link: https://www.facebook.com/whattheflick/
-
-- title: "The Young Turks"
-  image: tyt.jpg
-  role: Director, Producer, Editor (2009 to 2012)
-  category: news
-  imdb: http://www.imdb.com/title/tt1714810/
-  links:
-    - name: YouTube
-      link: https://www.youtube.com/user/TheYoungTurks
-    - name: Website
-      link: https://tytnetwork.com
-
 - title: "The Culture High"
   role: Executive Producer
   image: the-culture-high.jpg
@@ -127,3 +136,32 @@
   links:
     - name: Film
       link: https://itunes.apple.com/us/movie/the-culture-high/id924714874
+
+- title: "The Lord of Catan"
+  role: Executive Producer
+  image: catan.jpg
+  category: narrative
+  imdb: http://www.imdb.com/title/tt2997404/
+  links:
+    - name: Trailer
+      link: https://vimeo.com/96657479/
+    - name: Film
+      link: https://itunes.apple.com/us/movie/the-lord-of-catan/id1050840014/
+
+- title: "Limbo"
+  role: Executive Producer
+  image: limbo.jpg
+  category: narrative
+  imdb: http://www.imdb.com/title/tt3822414/
+  links:
+    - name: IMDB
+      link: http://www.imdb.com/title/tt3822414/
+
+- title: "Wasted Beauty"
+  role: Editor, Executive Producer
+  image: wasted-beauty.jpg
+  category: narrative
+  imdb: http://www.imdb.com/title/tt3579254/
+  links:
+    - name: IMDB
+      link: http://www.imdb.com/title/tt3579254/
