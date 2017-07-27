@@ -333,7 +333,6 @@ svg:hover path {
   margin-bottom: 0; }
 
 .quote {
-  text-align: left;
   height: 25vh;
   color: #aaaaaa;
   max-width: 320px;
@@ -349,6 +348,7 @@ svg:hover path {
 
 @media (min-width: 768px) {
   .quote {
+    text-align: left;
     height: auto;
     max-width: 100%;
     padding-left: 0;
