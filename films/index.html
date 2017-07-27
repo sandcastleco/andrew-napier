@@ -4,7 +4,7 @@ title: Films
 ---
 
 {% for film in site.data.films %}
-<div class="card">
+<div class="card film">
   <a href="{{ film.imdb }}" target="_blank"><img class="card-image" src="/img/{{ film.image }}" alt="{{ film.title }}"></a>
   <div class="card-main">
     <h2 class="card-title">{{ film.title }}</h2>

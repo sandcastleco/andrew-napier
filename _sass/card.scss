@@ -16,7 +16,8 @@
     margin-bottom: 0;
   }
 }
-.card-image:hover {
+.card-image:hover,
+.card-image.view {
   filter: grayscale(0);
   transition: .3s filter;
 }

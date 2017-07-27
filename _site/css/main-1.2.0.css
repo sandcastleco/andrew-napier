@@ -293,7 +293,8 @@ svg:hover path {
     max-width: 25%;
     padding-right: 20px;
     margin-bottom: 0; } }
-.card-image:hover {
+.card-image:hover,
+.card-image.view {
   filter: grayscale(0);
   transition: .3s filter; }
 
