@@ -62,6 +62,13 @@ img {
   border-color: #777777;
   transition: .3s border-color; }
 
+#login-form {
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 680px;
+  margin-right: auto;
+  margin-left: auto; }
+
 .container {
   padding-left: 20px;
   padding-right: 20px;
@@ -283,9 +290,20 @@ svg:hover path {
   margin-bottom: 3.25rem; }
 
 .card-image {
-  float: left;
-  max-width: 25%;
-  padding-right: 20px; }
+  margin-bottom: 1rem;
+  filter: grayscale(100%);
+  transition: .3s filter; }
+
+@media (min-width: 768px) {
+  .card-image {
+    float: left;
+    max-width: 25%;
+    padding-right: 20px;
+    margin-bottom: 0; } }
+.card-image:hover,
+.card-image.view {
+  filter: grayscale(0);
+  transition: .3s filter; }
 
 .card-main {
   float: left;
@@ -315,6 +333,7 @@ svg:hover path {
   margin-bottom: 0; }
 
 .quote {
+  text-align: left;
   height: 25vh;
   color: #aaaaaa;
   max-width: 320px;
@@ -371,7 +390,6 @@ footer {
   footer {
     min-height: 80px; } }
 .col {
-  display: inline-block;
   vertical-align: bottom;
   width: 50%; }
 
