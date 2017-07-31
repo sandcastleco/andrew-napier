@@ -1,22 +1,26 @@
 ---
-layout: page
+layout: wide
 title: Films
 ---
 
 {% for film in site.data.films %}
 <div class="card film">
-  <a href="{{ film.imdb }}" target="_blank"><img class="card-image" src="/img/{{ film.image }}" alt="{{ film.title }}"></a>
-  <div class="card-main">
-    <h2 class="card-title">{{ film.title }}</h2>
-    <p>{{ film.role }}</p>
-    <ul class="card-list">
-    {% for link in film.links %}
-      <li><a href="{{ link.link }}" target="_blank">{{ link.name }}</a></li>
-    {% endfor %}
-    </ul>
+  <div class="container">
+    <a href="{{ film.imdb }}" target="_blank"><img class="card-image" src="/img/{{ film.image }}" alt="{{ film.title }}"></a>
+    <div class="card-main">
+      <h2 class="card-title">{{ film.title }}</h2>
+      <p>{{ film.role }}</p>
+      <ul class="card-list">
+      {% for link in film.links %}
+        <li><a href="{{ link.link }}" target="_blank">{{ link.name }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
   </div>
 </div>
 {% endfor %}
 
-<p class="mt0"><a class="btn mt0" href="/documents/Andrew Napier Profile.pdf" target="_blank">Filmmaker Profile PDF</a><br>
-<a class="btn" href="http://www.imdb.com/name/nm3598310/" target="_blank">More on IMDb</a></p>
+<div class="container">
+  <p class="mt0"><a class="btn mt0" href="/documents/Andrew Napier Profile.pdf" target="_blank">Filmmaker Profile PDF</a><br>
+  <a class="btn" href="http://www.imdb.com/name/nm3598310/" target="_blank">More on IMDb</a></p>
+</div>
