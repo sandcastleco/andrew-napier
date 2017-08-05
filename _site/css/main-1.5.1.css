@@ -129,6 +129,13 @@ a:hover {
 .alt-link:hover {
   color: #aaaaaa; }
 
+.secret-link {
+  border-bottom: 0;
+  color: #777777; }
+
+.secret-link:hover {
+  color: #777777; }
+
 ol li,
 ul li {
   margin-top: 0px;
