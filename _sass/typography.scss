@@ -48,6 +48,13 @@ a:hover {
 .alt-link:hover {
 	color: $light-grey;
 }
+.secret-link {
+	border-bottom: 0;
+	color: $grey;
+}
+.secret-link:hover {
+	color: $grey;
+}
 ol li,
 ul li {
   margin-top: 0px;
