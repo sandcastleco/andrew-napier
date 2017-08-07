@@ -5,9 +5,11 @@ var quoteMachine = new QuoteMachine();
 var typewriter = new Typewriter();
 
 var films;
+var backButton;
 
 $(document).ready(function() {
   quoteNodes = $('.quote-content');
+  backButton = $('.header-btn');
 
   quotesRef.once("value", function(snapshot) {
     typewriter.loop();
@@ -31,5 +33,10 @@ $(document).ready(function() {
       }
     });
   }
+
+  backButton.click(function(e) {
+    e.preventDefault();
+    window.history.back();
+  });
 
 });
