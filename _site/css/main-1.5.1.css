@@ -294,14 +294,22 @@ svg:hover path {
 .card {
   position: relative;
   overflow: auto;
-  margin-bottom: 3.25rem; }
+  margin-bottom: 3rem;
+  padding-left: 45px;
+  padding-right: 45px; }
 
 .card-image {
+  display: block;
   margin-bottom: 1rem;
   filter: grayscale(100%);
   transition: .3s filter; }
 
 @media (min-width: 768px) {
+  .card {
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 3.25rem; }
+
   .card-image {
     float: left;
     max-width: 25%;

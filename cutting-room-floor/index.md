@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cutting Room Floor
+quoteLink: '/art-sucks'
 ---
 
 # The Cutting Room Floor

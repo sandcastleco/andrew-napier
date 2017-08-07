@@ -1,7 +1,12 @@
 <footer>
   <div class="col">
     <div class="quote">
-      <a class="alt-link" href="/cutting-room-floor"><span class="quote-content" id="quote2"></span><span class="cursor">|</span></a>
+      {% if page.quoteLink %}
+      {% assign link = page.quoteLink %}
+      {% else %}
+      {% assign link = '/cutting-room-floor' %}
+      {% endif %}
+      <a class="alt-link" href="{{ link }}"><span class="quote-content" id="quote2"></span><span class="cursor">|</span></a>
     </div>
   </div>
   {% unless page.no-social %}
