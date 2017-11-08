@@ -4,13 +4,13 @@ title: Contact
 ---
 
 {% include contact-form.html %}
-
+<br/>
 ## Representation
 
-The Gotham Group  
-Ellen Goldsmith Vein, Lindsay Williams, Nate Matteson
-
-310-285-0001 • [nate@gotham-group.com](mailto:nate@gotham-group.com)
+[Ellen Goldsmith Vein](mailto:egv@gotham-group.com) <br/>
+The Gotham Group <br/>
+Founder & CEO <br/>
+310-285-0001
 
 <p class="mt2"><a class="alt-link" href="/art-sucks"><i>Don't forget to have fun!</i></a></p>
 
