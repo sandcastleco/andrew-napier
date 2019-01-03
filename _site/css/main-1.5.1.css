@@ -320,6 +320,10 @@ svg:hover path {
   filter: grayscale(0);
   transition: .3s filter; }
 
+.card:hover .card-title {
+  color: black;
+  transition: .4s; }
+
 .card-main {
   float: left;
   max-width: 75%; }
