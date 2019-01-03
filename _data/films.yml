@@ -1,3 +1,14 @@
+- title: Active Measures
+  role: Editor, Executive Producer
+  image: active-measures.jpg
+  category: documentary
+  imdb: https://www.imdb.com/title/tt8135494/
+  links:
+    - name: Trailer
+      link: https://www.activemeasures.com/videos/
+    - name: Film
+      link: https://itunes.apple.com/us/movie/active-measures/id1419836915
+
 - title: Mad as Hell
   role: Director, Producer, Editor, Cinematographer
   image: mad-as-hell.jpg
@@ -40,7 +51,7 @@
     - name: Trailer
       link: https://www.youtube.com/watch?v=XLAVg17luqc
     - name: Film
-      link: https://itunes.apple.com/us/movie/curfew/id600675816	    
+      link: https://itunes.apple.com/us/movie/curfew/id600675816
 
 - title: "Bounce: How the Ball Taught the World to&nbsp;Play"
   role: Producer, Editor
@@ -85,7 +96,7 @@
       link: https://www.youtube.com/user/whattheflickshow
     - name: Website
       link: https://www.facebook.com/whattheflick/
-  
+
 - title: "The Young Turks"
   image: tyt.jpg
   role: Director, Producer, Editor (2009 to 2012)
@@ -95,7 +106,7 @@
     - name: YouTube
       link: https://www.youtube.com/user/TheYoungTurks
     - name: Website
-      link: https://tytnetwork.com	  	  
+      link: https://tytnetwork.com
 
 - title: "Primaries"
   image: primaries.jpg
