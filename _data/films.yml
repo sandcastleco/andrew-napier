@@ -42,6 +42,15 @@
     - name: Watch for Free
       link: https://vimeo.com/169603130
 
+- title: "The Oscar Nominated Short Films 2013: Live Action"
+  image: short-films.jpg
+  role: Producer of Curfew
+  category: documentary
+  imdb: https://www.amazon.com/Oscar-Nominated-Short-Films-2013/dp/B00BIZZ1CS
+  links:
+    - name: Amazon
+      link: https://www.amazon.com/Oscar-Nominated-Short-Films-2013/dp/B00BIZZ1CS
+
 - title: "Curfew"
   role: Producer, Assistant Director
   image: curfew.jpg
@@ -119,14 +128,23 @@
     - name: Trailer
       link: https://www.youtube.com/watch?v=LatwLj0lTQQ
 
-- title: "Sidney Hall"
-  image: sydney.jpg
+- title: "The Vanishing of Sidney Hall"
+  image: sidney-hall.jpg
   role: Associate Producer, Additional Editor
   category: comedy
-  imdb: http://www.imdb.com/title/tt2106529/
+  imdb: http://www.imdb.com/title/tt1291566/
   links:
     - name: IMDB
       link: http://www.imdb.com/title/tt1291566/
+
+- title: "Mad as Hell: The Series"
+  image: mad-as-hell2.jpg
+  role: Creator, Director, Writer, Executive Producer
+  category: news
+  imdb: https://www.imdb.com/title/tt4588928/
+  links:
+    - name: IMDB
+      link: https://www.imdb.com/title/tt4588928/
 
 - title: "Lust for Love"
   image: lust-for-love.jpg
@@ -168,6 +186,15 @@
     - name: IMDB
       link: http://www.imdb.com/title/tt3822414/
 
+- title: "A Real Adventure"
+  role: Executive Producer
+  image: a-real-adventure.jpg
+  category: narrative
+  imdb: https://www.imdb.com/title/tt7167812/
+  links:
+    - name: IMDB
+      link: https://www.imdb.com/title/tt7167812/
+
 - title: "Wasted Beauty"
   role: Editor, Executive Producer
   image: wasted-beauty.jpg
@@ -176,3 +203,21 @@
   links:
     - name: IMDB
       link: http://www.imdb.com/title/tt3579254/
+
+- title: "A Lucky Man"
+  role: Editor, Executive Producer, Voice Actor
+  image: a-lucky-man.jpg
+  category: narrative
+  imdb: https://www.imdb.com/title/tt6985594/
+  links:
+    - name: IMDB
+      link: https://www.imdb.com/title/tt6985594/
+
+- title: "A Light Above"
+  role: Editor, Executive Producer
+  image: a-light-above.jpg
+  category: narrative
+  imdb: https://www.imdb.com/title/tt7230390/
+  links:
+    - name: IMDB
+      link: https://www.imdb.com/title/tt7230390/
