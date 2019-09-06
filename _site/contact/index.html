@@ -9,6 +9,14 @@
   <link rel="shortcut icon" href="/img/favicon-96x96.png">
   <script src="https://use.typekit.net/ueo0gyq.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+  <script
+  src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/normalize.css">
   <link rel="stylesheet" href="/css/main-1.5.1.css">
@@ -23,22 +31,40 @@
     <a class="header-btn" href="/"><svg viewBox="335, 241, 150, 150" width="30" height="30"><path fill="#e7e7e7" d="M464.06,316.18a5.51,5.51,0,0,1-5.36,5.36H399.78v32.14a5.29,5.29,0,0,1-5.36,5.36,6.17,6.17,0,0,1-4-1.67L337,304a5.67,5.67,0,0,1,0-7.7l53.57-53.57a5.59,5.59,0,0,1,3.85-1.51,5.51,5.51,0,0,1,5.36,5.36v32.14H458.7a5.51,5.51,0,0,1,5.36,5.36v32.14Z"/></svg></a>
 
 
-    <form action="https://getsimpleform.com/messages?form_api_token=52806b76359aac0d2fc154c07877683c" method="post">
-  <input type="hidden" name="redirect_to" value="http://andrewnapier.com/thank-you" />
+    <form action="https://liveformhq.com/form/435e9cb8-bce3-405b-b4b6-cb69fe938c0f" method="POST" accept-charset="utf-8">
+  <input type="hidden" name="_utf8" value="✓" />
+  <!--
+    NOTE: This is an optional field, if your form has a field named '_redirect',
+    The user will be redirected to this page after the submission is saved
+  -->
+  <input type="hidden" value="http://andrewnapier.com/thank-you" name="_redirect" />
   <div class="form-group">
-    <label class="sr-only" for="name-input">Name</label>
+    <label class="sr-only" for="name">Name</label>
     <input type="text" class="form-control" id="name-input" name="name" placeholder="Your name" />
   </div>
   <div class="form-group">
-    <label class="sr-only" for="email-input">Email</label>
-    <input type="email" class="form-control" id="email-input" name="email" placeholder="Your email" />
+    <label class="sr-only" for="email">Email</label>
+    <input type="text" class="form-control" id="email-input" name="email" placeholder="Your email" />
   </div>
   <div class="form-group">
     <label class="sr-only" for="message-input">Message</label>
     <textarea class="form-control" id="message-input" name="message" placeholder="Your message" rows="4"></textarea>
   </div>
-  <button type="submit" class="btn">Send message</button>
+    <div id="capt" class="g-recaptcha mb1" data-sitekey="6LeeA7cUAAAAAFTDI39xTHYG2FC_0q4VHvgcDJCu"></div>
+    <button type="submit" id="form-submit" class="btn">Send Message</button>
 </form>
+
+<script type="text/javascript">
+
+$('#form-submit').click(function(){
+  if(grecaptcha.getResponse().length == 0){
+     alert('Please check the reCAPTCHA checkbox if you are not a robot, otherwise get lost.');
+     return false;
+   }
+});
+
+
+ </script>
 
 <p><br /></p>
 <h2 id="representation">Representation</h2>
