@@ -398,20 +398,24 @@ svg:hover path {
 footer {
   position: relative;
   bottom: 0;
-  left: 0;
   overflow: auto;
   width: 100%;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-bottom: 1rem; }
+  padding-bottom: 1rem;
+  min-height: 80px;
+  text-align: center; }
 
 @media (min-width: 768px) {
   footer {
-    min-height: 80px; } }
+    min-height: 80px;
+    text-align: right !important; } }
 .col {
-  vertical-align: bottom;
-  width: 50%; }
+  vertical-align: bottom; }
 
+@media (min-width: 768px) {
+  .col {
+    width: 50%; } }
 footer .quote {
   position: absolute;
   bottom: 15px;
@@ -428,10 +432,12 @@ footer .credits-link {
   bottom: 15px; }
 
 footer .social {
-  position: absolute;
-  bottom: 15px;
-  right: 15px; }
+  bottom: 15px; }
 
+@media (min-width: 768px) {
+  footer .social {
+    right: 15px;
+    position: absolute; } }
 footer a {
   display: inline-block;
   margin-right: 10px; }
