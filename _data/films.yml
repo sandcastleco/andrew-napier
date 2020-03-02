@@ -62,6 +62,48 @@
     - name: Film
       link: https://itunes.apple.com/us/movie/curfew/id600675816
 
+- title: "Mad as Hell: The Series"
+  image: mad-as-hell2.jpg
+  role: Creator, Director, Writer, Executive Producer
+  category: news
+  imdb: https://www.imdb.com/title/tt4588928/
+  links:
+    - name: IMDB
+      link: https://www.imdb.com/title/tt4588928/
+
+- title: "What the Flick!?"
+  image: what-the-flick.jpg
+  role: Co-creator, Director, Producer, Editor (2010 to 2012)
+  category: news
+  imdb: http://www.imdb.com/title/tt1826569/
+  links:
+    - name: YouTube
+      link: https://www.youtube.com/user/whattheflickshow
+    - name: Website
+      link: https://www.facebook.com/whattheflick/
+
+- title: "The Young Turks"
+  image: tyt.jpg
+  role: Director, Producer, Editor (2009 to 2012)
+  category: news
+  imdb: http://www.imdb.com/title/tt1714810/
+  links:
+    - name: YouTube
+      link: https://www.youtube.com/user/TheYoungTurks
+    - name: Website
+      link: https://tytnetwork.com
+
+- title: "An Orgy in Joshua Tree"
+  image: an-orgy-in-joshua-tree.jpg
+  role: Writer, Producer, Editor, 2nd Unit Director, Songwriter, Voice Actor
+  category: narrative
+  imdb: https://www.imdb.com/title/tt10213668/
+  links:
+    - name: IMDB
+      link: https://www.imdb.com/title/tt10213668/
+    - name: Facebook
+      link: https://www.facebook.com/JoshuaTreeShort/
+
 - title: "Bounce: How the Ball Taught the World to&nbsp;Play"
   role: Producer, Editor
   image: bounce.jpg
@@ -95,28 +137,6 @@
     - name: Film
       link: https://itunes.apple.com/us/movie/before-i-disappear/id935216832
 
-- title: "What the Flick!?"
-  image: what-the-flick.jpg
-  role: Co-creator, Director, Producer, Editor (2010 to 2012)
-  category: news
-  imdb: http://www.imdb.com/title/tt1826569/
-  links:
-    - name: YouTube
-      link: https://www.youtube.com/user/whattheflickshow
-    - name: Website
-      link: https://www.facebook.com/whattheflick/
-
-- title: "The Young Turks"
-  image: tyt.jpg
-  role: Director, Producer, Editor (2009 to 2012)
-  category: news
-  imdb: http://www.imdb.com/title/tt1714810/
-  links:
-    - name: YouTube
-      link: https://www.youtube.com/user/TheYoungTurks
-    - name: Website
-      link: https://tytnetwork.com
-
 - title: "Primaries"
   image: primaries.jpg
   role: Editor (Ep. 2 - The Country Got it Wrong, Ep. 4 - This is a Nightmare)
@@ -136,15 +156,6 @@
   links:
     - name: IMDB
       link: http://www.imdb.com/title/tt1291566/
-
-- title: "Mad as Hell: The Series"
-  image: mad-as-hell2.jpg
-  role: Creator, Director, Writer, Executive Producer
-  category: news
-  imdb: https://www.imdb.com/title/tt4588928/
-  links:
-    - name: IMDB
-      link: https://www.imdb.com/title/tt4588928/
 
 - title: "Lust for Love"
   image: lust-for-love.jpg
