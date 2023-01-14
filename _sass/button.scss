@@ -1,0 +1,53 @@
+.btn {
+	display: inline-block;
+	margin-bottom: 0;
+	margin-top: 1rem;
+	border: 0;
+	font-size: 1rem;
+	padding: 10px;
+  border : 1px solid $light-grey;
+	color: $light-grey;
+  background-color: transparent;
+	border-radius: 5px;
+	transition: .3s all;
+}
+.btn:hover {
+	color: $grey;
+	border-color: $grey;
+	transition: .3s all;
+}
+.btn:focus {
+	outline: 0;
+}
+.btn-space {
+	margin-top: 1rem;
+}
+.header-btn {
+	border-bottom: 0;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	z-index: 1000;
+}
+.header-btn svg path {
+	fill: $light-grey;
+	transition: .3s all;
+}
+.header-btn:hover svg path {
+	fill: $grey;
+	transition: .3s all;
+}
+
+svg {
+	cursor: pointer;
+}
+svg path {
+	fill: $light-grey;
+	-webkit-transition: .3s fill;
+	transition: .3s fill;
+}
+svg:hover path {
+	fill: $grey;
+	-webkit-transition: .3s fill;
+	transition: .3s fill;
+}
