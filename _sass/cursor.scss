@@ -1,0 +1,50 @@
+.quote {
+  height: 25vh;
+  color: $light-grey;
+  max-width: 320px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#quote2,
+#quote2 + .cursor {
+  visibility: hidden;
+  font-size: 0;
+}
+@media (min-width: 768px) {
+  .quote {
+    text-align: left;
+    height: auto;
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #quote1,
+  #quote1 + .cursor,
+  .cursor + hr {
+    display: none;
+  }
+  #quote2,
+  #quote2 + .cursor {
+    visibility: visible;
+    font-size: 1rem;
+  }
+}
+@keyframes blink {
+  from {
+    opacity: 0
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.cursor {
+  color: lighten($light-grey, 15%);
+  animation-duration: .5s;
+  animation-delay: 1s;
+  animation-name: blink;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
