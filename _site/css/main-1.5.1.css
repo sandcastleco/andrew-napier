@@ -4,6 +4,7 @@
   box-sizing: border-box; }
 
 html {
+  overflow-x: hidden;
   font-size: 16px; }
 
 @media (min-width: 768px) {
