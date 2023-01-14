@@ -4,3 +4,4 @@ title: Andrew Napier
 # Build settings
 markdown: kramdown
 permalink: pretty
+baseurl: /andrew-napier
